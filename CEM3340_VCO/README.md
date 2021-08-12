@@ -1,6 +1,8 @@
-CEM3340
+# CEM3340
 
 This Project is an optimised VCO design for home etching. It is a powerful VCO with the almighty and classic CEM3340. I used the CEM3340 version of Kassutronics and the Digitone as a starting point.
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181042.jpg" width="300" />
 
 The following things are changed in this design:
 * Dual board layout instead of single with wider tracks etc.
@@ -10,7 +12,6 @@ The following things are changed in this design:
 
 
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181042.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181119.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181134.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181208.jpg" width="300" />
