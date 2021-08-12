@@ -26,8 +26,8 @@ This Arduino based trigger sequencer is a powerfull eurorack module for rhythmic
 
 ### Images
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/trigger_sequencer/main/images/20210208_215258.jpg" width="300" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/trigger_sequencer/main/images/20210212_231106.jpg" width="300" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/trigger_sequencer/main/images/20210212_231030.jpg" width="300" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/trigger_sequencer/main/images/20210212_231038.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Trigger_Sequencer/images/20210208_215258.jpg" width="300" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Trigger_Sequencer/images/20210212_231106.jpg" width="300" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Trigger_Sequencer/images/20210212_231030.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Trigger_Sequencer/images/20210212_231038.jpg" width="300" />
 
 
 
