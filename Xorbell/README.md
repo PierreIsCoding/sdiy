@@ -14,5 +14,5 @@ Keep in mind that this module uses a trick for the input gates + decay. By this 
 Tip: If you would use SPDT toggle switches (a tripple legged switch) instead of a SPST switch you will get an extra sound for each channel in their "off" positions.
 
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Xorbell/main/images/xorbell.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Xorbell/images/xorbell.jpg" width="300" />
 
