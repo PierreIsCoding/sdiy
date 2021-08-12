@@ -22,12 +22,12 @@ The following files are included:
 ## Bugs & Fixes
 Please be informed that I, although having a technical background, am an electronics hobbyist. I build and share my project for fun and learning, so please let me know if you have any good improvements in mind!
 ## Photos
-![Image of Master Clock](http://www.looklook.tv/images/master_1.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_2.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_3.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_4.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_5.jpg)
-![Image of Master Clock](http://www.looklook.tv/images/master_6.jpg)
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_1.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_2.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_3.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_4.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_5.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/MasterClock/main/images/clock_6.jpg" width="400" />
   
   
   
