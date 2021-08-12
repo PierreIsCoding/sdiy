@@ -18,6 +18,5 @@ Finally I named this design after my Synth DIY nickname: Luther. Since I changed
 
 PS, I would rather use a multiturn trimpot than a single one as depictured below.
 
-
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Luthers_VCO/main/images/20210610_174519.jpg" width="400" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Luthers_VCO/main/images/20210610_174454.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Luthers_VCO/images/20210610_174519.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Luthers_VCO/images/20210610_174454.jpg" width="400" />
