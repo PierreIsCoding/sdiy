@@ -6,7 +6,7 @@ This Project is an optimised VCO design for home etching. It is a powerful VCO w
 
 The following things are changed in this design:
 * Dual board layout instead of single with wider tracks etc.
-* New PWM input. In Kassutronics version the potentiometer becomes an attenuator when after instering a jack. I changed this to a bias-with-cv-mix alternative together with extra input protection.
+* New PWM input. At Kassutronics version the PWM potentiometer becomes an attenuator after instering a jack-cable. I changed this to a bias-with-cv-mix alternative together with extra input protection.
 * A different triangle to sine conversion. This part uses Thomas Henry's design. Here you need two standard but matched transistors instead of difficult to source j201's. 
 * Cascading multiple VCO's headers. I gave the breaking pins of the input jacks extra connectors point in the pcb layout. With this you can create a semi modular dual vco more easily. For instance: instead of two seperated VCO's you can link the 1V/OCT from VCO 1 with the breaking input pin of the 1V/OCT of  VCO 2. This will save you Eurorack cables when using multiple VCO's but keeps the flexibility of using them.
 
