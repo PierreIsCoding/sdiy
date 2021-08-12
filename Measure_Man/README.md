@@ -1,7 +1,9 @@
 # Measure_Man
 Measure man helps you to save the day! This simple but powerful utility is a "handy to have" little tool that helps you to quickle measure a few important specs for a synth diy / Eurorack enthusiast!
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Measure_Man/main/images/overview.bmp" width="400" />
+
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Measure_Man/images/overview.bmp" width="400" />
 
 ## Disclamer
 - This project is only for experienced users/ builders.
@@ -30,7 +32,7 @@ Measure man helps you to save the day! This simple but powerful utility is a "ha
 - After your build, use this tool first only for "checking Eurorack cables", before measuring current and voltages.
 
 ## Check Eurorack cables
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Measure_Man/main/images/20210422_192843.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Measure_Man/images/20210422_192843.jpg" width="400" />
 
 - Set the switch of "Measure Man" to "Voltage Mode".
 - Add one end of your cable to the input and the other end to the output.
@@ -42,8 +44,8 @@ Measure man helps you to save the day! This simple but powerful utility is a "ha
 
 
 ## Measure current
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Measure_Man/main/images/20210422_192646.jpg" width="400" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/Measure_Man/main/images/20210422_192658.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Measure_Man/images/20210422_192646.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Measure_Man/images/20210422_192658.jpg" width="400" />
 
 - Make sure to have a switch off power supply before continue.
 - Set the switch of "Measure Man" to "Ampere Mode".
