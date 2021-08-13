@@ -17,7 +17,7 @@ I eventually looked mainly at Kassutronics version. Compared to his design I cha
 * Please look the ibom file components placement.
 * The design uses some wiring within the board. See the "SINGLE_CEM3340-F_Cu.pdf" for those connections. See also images below
 * For drilling holes see my general [Builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes)
-* I designed "board converters" that enables you to stack multiple ecthed single layer boards. See also my general Buildnotes
+* I designed "board converters" that enables you to stack multiple etched single layer boards. See also my general Buildnotes
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181119.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181134.jpg" width="300" />
