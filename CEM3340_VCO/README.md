@@ -14,7 +14,7 @@ I eventually looked mainly at Kassutronics version. Compared to his design I cha
 
 ## Build Notes
 * Please also read the documentation on [Kassutronics Github](https://github.com/kassu/kassutronics/tree/master/documentation/VCO%203340) and [Eddy Bergmans](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html)
-* Please look the ibom file for placing the components.
+* Please look the ibom file components placement.
 * The design uses some wiring within the board. See the "SINGLE_CEM3340-F_Cu.pdf" for those connections. See also images below
 * For drilling holes see my general [Builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes)
 * I designed "board converters" that enables you to stack multiple ecthed single layer boards. See also my general Buildnotes
