@@ -5,7 +5,7 @@ After some frustration with lots of wiring to nicely etched pcb's I needed a sol
 
 * It requires a small piece of perfboard for each connection.
 * Extra holes are requires for the connecting wire between each layer
-* It is best used with male and female headers with longer legs, like with stacking headers
+* It is best used with male and female headers with longer legs, like stacking headers
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/board_convert_b.jpg" height="200" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/20210813_130330.jpg" height="200" />
 
