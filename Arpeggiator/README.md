@@ -16,7 +16,7 @@ This project is the design of a simple Arduino based argpeggiator for the sdiy e
 This project uses an R2R resistor network as a diy DAC (Digital to analog convert). I did this because I got really inspired by this (article)[https://www.electronics-tutorials.ws/combination/r-2r-dac.html]. The R2R resistor is a handy tool useful for many other projects. See also: [Arduino example](https://create.arduino.cc/projecthub/instrumentation-system/dac-8-bit-using-r-2r-ladder-964837)
 
 ## Chords
-Current build in chords. See also: [https://en.wikipedia.org/wiki/Chord_(music)](https://en.wikipedia.org/wiki/Chord_(music))
+Current build in chords with intervals. See also: [https://en.wikipedia.org/wiki/Chord_(music)](https://en.wikipedia.org/wiki/Chord_(music))
 * {0, 4, 7, 0},  // Major
 * {0, 4, 7, 10}, // Major 7
 * {0, 4, 7, 11}, // Dominant 7
@@ -26,7 +26,7 @@ Current build in chords. See also: [https://en.wikipedia.org/wiki/Chord_(music)]
 * {0, 3, 6, 10}, // Half Diminished 7
 * {0, 3, 6, 9},  // Full Diminished 7
 * {0, 4, 8, 0},  // Augmented
-* {0, 4, 8, 10}, // Agmented 7
+* {0, 4, 8, 10}, // Augmented 7
 * {0, 5, 7, 0},  // Sus 4
 * {0, 5, 7, 11}, // Sus 4 Maj 7
 
