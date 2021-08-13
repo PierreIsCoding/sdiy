@@ -7,9 +7,10 @@ After some frustration with lots of wiring to nicely etched pcb's I needed a sol
 * Extra holes are requires for the connecting wire between each layer
 * It is best used with male and female headers with longer legs, like with stacking headers
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/board_convert_b.jpg" width="400" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/20210813_130330.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/board_convert_b.jpg" height="200" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/20210813_130330.jpg" height="200" />
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210813_130437.jpg" width="300" />
+
 
 ## Drilling 
 
@@ -24,3 +25,5 @@ After some frustration with lots of wiring to nicely etched pcb's I needed a sol
 | Female header pins |0.8|
 | IDC header pins |1|
 | Toggle switch |2.2|
+
+
