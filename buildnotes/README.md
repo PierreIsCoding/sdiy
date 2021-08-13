@@ -13,6 +13,8 @@ After some frustration with lots of wiring to nicely etched pcb's I needed a sol
 
 
 ## Drilling 
+This is a list with drill sizes I am currently using for my pcb etching projects.
+
 
 | Component        | Drill size (mm) |
 | -------------   |:-------------:|
