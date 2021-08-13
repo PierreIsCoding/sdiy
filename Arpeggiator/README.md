@@ -1,6 +1,6 @@
 # Arpeggiator
 
-This project is the design of a simple Arduino based argpeggiator for the sdiy enthusiast. 
+This project is the design of a simple Arduino based arpeggiator for the sdiy enthusiast. 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Arpeggiator/images/20210813_130817.jpg" height="400" />
 
