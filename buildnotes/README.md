@@ -9,7 +9,7 @@ After some frustration with lots of wiring to nicely etched pcb's I needed a sol
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/board_convert_b.jpg" height="200" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/buildnotes/images/20210813_130330.jpg" height="200" />
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210813_130437.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210813_130437.jpg" width="400" />
 
 
 ## Drilling 
