@@ -13,7 +13,7 @@ I eventually looked mainly at Kassutronics version. Compared to his design I cha
 * Cascading multiple VCO's headers. I gave the breaking pins of the input jacks extra connector points in the pcb layout. With this you can create a semi modular dual vco more easily. For instance: instead of two seperated VCO's you can link the 1V/OCT from VCO 1 with the breaking input pin of the 1V/OCT of  VCO 2. This will save you Eurorack cables when using multiple VCO's but keeps the flexibility of using them. Furthermore you could build a front panel with two VCO's mounted on its back.
 
 ## Build Notes
-* Please also read the documentation on [Kassutronics Github](https://github.com/kassu/kassutronics/tree/master/documentation/VCO%203340) and [EddyBergans](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html)
+* Please also read the documentation on [Kassutronics Github](https://github.com/kassu/kassutronics/tree/master/documentation/VCO%203340) and [Eddy Bergmans](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html)
 * Please look the ibom file for placing the components.
 * The design uses some wiring within the board. See the "SINGLE_CEM3340-F_Cu.pdf" for those connections. See also images below
 * For drilling holes see my general [Builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes)
