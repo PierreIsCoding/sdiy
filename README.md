@@ -1,2 +1,15 @@
 # sdiy
-Synth DIY projects
+My Synth DIY Projects 
+
+## Table Of Contents
+* 3DPrinting_For_Eurorack
+* CEM3340_VCO
+* Hacked_Operator
+* Luthers_VCO
+* MS_20_VCF_Clone
+* MasterClock
+* Measure_Man
+* Trigger_Sequencer
+* Xorbell
+* Buildnotes
+
