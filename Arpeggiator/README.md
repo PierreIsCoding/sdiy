@@ -49,7 +49,7 @@ A Markov chain creates is a semi random pattern. This is currently in beta.
 
 ## Build notes
 * For more accuracy the resistors in the R2R networks need to be matched.
-* With RV4 you trim the 1V/OCT. For doing this please set the first "chord" temporarily within the code to:  {0, 24, 36, 48}. Set the ocatve switches to 0, and insert a slow clock. Now measure your output with a multimeter so you get 1,2,3,4 volts depending on your current step. Adjust the trimmer accordingly.
+* With RV4 you trim the 1V/OCT. For doing this please set the first "chord" temporarily within the code to:  {0, 24, 36, 48}. Set the ocatve switches to 0, and insert a slow clock. Now measure your output with a multimeter so you should get 1,2,3,4 volts depending on your current step. Adjust the trimmer accordingly.
 * RV1 and RV2 sets the octave offset. The idea is that you set with RV1 to exactly 1V and RV2 to 2V. Then you can simply change the base octave with SW4. However you can trim this to your own liking.  
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Arpeggiator/images/20210813_130710.jpg" width="400" />
