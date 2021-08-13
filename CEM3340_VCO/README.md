@@ -1,6 +1,6 @@
 # CEM3340
 
-This Project is an optimised VCO design for home etching. It is a powerful VCO with the almighty and classic CEM3340. I looked at the version of [Kassutronics](https://kassu2000.blogspot.com/2018/06/vco-3340.html), [Electricdruid](https://electricdruid.net/cem3340-vco-voltage-controlled-oscillator-designs/) and  [Digisound](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html) as a starting point.
+This Project is an optimised VCO design for home single layer etching. It is a powerful VCO with the almighty and classic CEM3340. I looked at the version of [Kassutronics](https://kassu2000.blogspot.com/2018/06/vco-3340.html), [Electricdruid](https://electricdruid.net/cem3340-vco-voltage-controlled-oscillator-designs/) and  [Digisound](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html) as a starting point.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181042.jpg" width="300" />
 
@@ -14,10 +14,10 @@ I eventually looked mainly at Kassutronics version. Compared to his design I cha
 
 ## Build Notes
 * Please also read the documentation on [Kassutronics Github](https://github.com/kassu/kassutronics/tree/master/documentation/VCO%203340) and [EddyBergans](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html)
-* Please look the ibom file for placing the components
+* Please look the ibom file for placing the components.
 * The design uses some wiring within the board. See the "SINGLE_CEM3340-F_Cu.pdf" for those connections. See also images below
-* For drilling holes see my general [builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes)
-* For information about the board converters see also same buildnotes
+* For drilling holes see my general [Builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes)
+* I designed "board converters" that enables you to stack multiple ecthed single layer boards. See also my general Buildnotes
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181119.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181134.jpg" width="300" />
