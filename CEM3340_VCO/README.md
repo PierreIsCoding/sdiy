@@ -21,6 +21,7 @@ I eventually looked mainly at Kassutronics version. Compared to his design I cha
 * I designed "board converters" that enables you to stack multiple etched single layer boards. In the images below they look like little perfboards. See also my general [Builnotes](https://github.com/PierreIsCoding/sdiy/tree/main/buildnotes).
 * Please look at the front_panel pdf for measurements of the front panel. I didn't use the same exact dimensions as Kassutronics.
 * I personally didn't use multi-trimpots for RV10 and RV7. If you match the transistors well for the triangle to sine converter cheaper trimpots will be good enough.
+* I used a Polystyrene capacitor for C8. 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181119.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181134.jpg" width="300" />
