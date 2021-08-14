@@ -39,10 +39,10 @@ Current build in chords with intervals. See also: [https://en.wikipedia.org/wiki
 * DOWN x 2
 * RANDOM
 * Markov Chain V1
-* Markov CHain V2
-* Markov CHain V2
-* Markov CHain V2
-* Markov CHain V2
+* Markov Chain V2
+* Markov Chain V2
+* Markov Chain V2
+* Markov Chain V2
 
 ## Markov Chain
 A Markov chain creates is a semi random pattern. This is currently in beta. 
