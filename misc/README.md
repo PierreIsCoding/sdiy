@@ -12,6 +12,6 @@ With holes:
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/misc/Pow_Cap/cap_2.PNG" width="300" />
 
-Kristian Blåsol is one of my synth DIY goeroes and I got honour to help him with designing this little helper in 3D. If you wish to start with building your own synth modules please visit his incredible Youtube series [Modular In A Week](https://www.youtube.com/watch?v=5DKU1m5_b_8&list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T). It will at least inspire you as it did with me and got me started with this hobby! Thanx for all that Kristian!
+Kristian Blåsol is one of my synth DIY gurus and I got honour to help him with designing this little helper in 3D. If you wish to start building your own synth modules please visit his incredible Youtube series [Modular In A Week](https://www.youtube.com/watch?v=5DKU1m5_b_8&list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T). It will at least inspire you as it did with me and got me started with this hobby! Thanx for all that Kristian!
 
 
