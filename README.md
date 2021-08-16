@@ -3,6 +3,7 @@ My Synth DIY Projects
 
 ## Table Of Contents
 * 3DPrinting_For_Eurorack
+* Arpeggiator
 * CEM3340_VCO
 * Hacked_Operator
 * Luthers_VCO
@@ -12,4 +13,5 @@ My Synth DIY Projects
 * Trigger_Sequencer
 * Xorbell
 * Buildnotes
+* Misc
 
