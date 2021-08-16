@@ -1,7 +1,7 @@
 Miscellaneous Synth DIY projects
 
 
-## POW IDC cap
+## POW cap
 The "POW CAP" is a 3D-printed plastic cap for a 16-pin IDC socket in the POW-module designed by Kristian Blåsol aka Sourcery. I created two versions with and without holes for adding an extra wire to your module. See folder for .step and stl files.
 
 Without holes:
