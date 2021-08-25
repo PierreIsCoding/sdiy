@@ -19,6 +19,7 @@ The 4HP and 8HP Panels are designed for general purpose usage. In the back of th
 
 ### 8HP
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_Panel.PNG" width="200" /><img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_PCB_Panel_Mount.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_PCB_Panel_Mount_V2.PNG" width="200" />
 
 ## Bonus part ;)
 Knob for knurled 6mm shafts
