@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=OCAb2UoSPs0
 
 
 ## No more 40106
-Moritz included in his design a 40106 schmitt trigger. I wanted to simplify that by using an opamp in schmitt trigger configuration. This results in a much simpler and economical design since the 40106 has 6 schmitt triggers and you would use only two of those for a single VCO. Alternatively you can build 3 VCO's togteher, but I rather have the option to start with one VCO and just add another as I please in a modular fashion.
+Moritz included in his design a 40106 schmitt trigger. I wanted to simplify that by using an opamp in schmitt trigger configuration. This results in a much simpler and economical design since the 40106 has 6 schmitt triggers and you would use only two of those for a single VCO. Alternatively I could have build 3 VCO's together with that 40106, but I rather have the option to start with one VCO and just add another as I please in a modular fashion.
 
 ## PWM
 Using a gentle form of PWM (Pulse Width Modulation) is a great way to beef up the sound of square wave vco's. Since my previous alteration added extra opamps I could add this great feature without any costs. 
