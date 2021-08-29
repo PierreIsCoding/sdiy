@@ -8,7 +8,7 @@ This module is a simple but fun module for the sdiy enthusiast!
 * Standard analog Sample And Hold
 * Added comparator for random gates
 
-To clarify, a sample and hold module has nothing to do with "samples" in a musical sence. It doesn't record a piece of music that can be play back again. It only samples a single value, while a musical sample requires often 44100 samples per second. 
+To clarify, a sample and hold module has nothing to do with "samples" in a musical sence. It doesn't record a piece of music that can be play back again. It only stores / samples a single value for CV purposes, while musical samplers store 44100 samples per second for audio perposes.
 
 ## How To
 The S&H module stores (samples) everytime it gets a clock pulse the current value on the signal input. If you would use a random noise signal it will create random values and hold that value until it gets the next clock pulse; hence its name. You can use this for random cv signal etc etc.
