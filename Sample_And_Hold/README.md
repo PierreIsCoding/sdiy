@@ -16,5 +16,5 @@ The S&H module stores / holds, everytime it gets a clock pulse, the current valu
 I designed this module with the addition of an extra comparator. With the connected potentiometer you can change the level that is compared with the cv output of the S&H core part. If the S&H signal is higher than the level signal the LED with light up and you get a high out, else you get a low out. To conclude you can also add some other value into the LEVEL-IN jack if you want to use the comparator as stand-alone.
 
 ## Idea
-If you would use a noise signal and combine this signal with an AND gate together with the original clock you have a probability gate! 
+If you would use a noise signal and combine the comparator output with an AND gate together with the original clock you have a probability gate! 
 
