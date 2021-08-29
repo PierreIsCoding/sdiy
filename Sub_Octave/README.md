@@ -9,6 +9,9 @@ This module creates a square wave sub octave for your DIY synthesizer. It is a s
 * Transform each waveform into a square wave.
 * Mix the sub chord with that square wave version.
 
+## Toughts
+I also added a comparator knob. I did this because "back in the days" I had some VCO's that weren't AC coupled. But if you have nicely bipolar signels it is not really useful, enless you also want to use the module as a clock divider with unipolar clock signals. So I probably will remove that comparator knob and 
+
 
 
 
