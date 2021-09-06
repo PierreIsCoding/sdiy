@@ -20,6 +20,7 @@ The gate signal is converted into a very fast trigger which open and closes the 
 - Just use some heatshrink tubing (maybe use the ones with glue as I did) to bundle a LDR and a white LED. See Youtube for tips on this topic.
 - Experiment with different capacitors for the decays. I used fairly modest values but you can get creative with it. Please note that higher values will not a close the signal that well but can create an interesting effect anyway.
 - The trimpots are not needed really.  I left mine in the middle. You can use some fixed resistors (2x47K for instance)
+- Please note the connection of the breaking pins with ground at U3 and U8 in the schematic.
 
 ps. I will add some better looking labels ;)
 
