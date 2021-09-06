@@ -20,6 +20,8 @@ The gate signal is converted into a very fast trigger which open and closes the 
 - Just use some heatshrink tubing (maybe use the ones with glue as I did) to bundle a LDR and a white LED. See Youtube for tips on this topic.
 - Experiment with different capacitors for the decays. I used fairly modest values but you can get creative with it. Please note that higher values will not a close the signal that well but can create an interesting effect anyway.
 
+ps. I will add some better looking labels ;)
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/front.jpg" height="400" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_211956.jpg" height="400" />
 
