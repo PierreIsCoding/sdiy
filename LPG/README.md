@@ -12,6 +12,8 @@ This vactrol based module converts any sound into a fast drum sound.
 -   A very short trigger useful for combining with external VCA's etc.
 - Two channels. each channel has a simple switch for changing the decay length
 
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/front.jpg" height="400" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_211956.jpg" height="400" />
 
 
