@@ -13,7 +13,7 @@ This vactrol based module converts any sound into a drum sound. It is a simple b
 - Two channels. each channel has a simple switch for changing the decay length.
 
 ## How It Works
-The gate signal is converted into a very fast trigger which open and closes the vactrol by lighting its inner LED. Due to the capacitors near the vactrols and the vactrol itself that trigger is converted into more natrual slopy decay. Furthermore the vactrols filter out higher frequencies while closing. Giving it a "natural" sounding effect.
+The gate signal is converted into a very fast trigger which open and closes the vactrol by lighting its inner LED. Due to the capacitors near the vactrols and the vactrol itself that trigger is converted into more natural slopy decay. Furthermore the vactrols filter out higher frequencies while closing. Giving it a "natural" sounding effect.
 
 
 ## Build Notes
