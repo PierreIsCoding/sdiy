@@ -21,7 +21,8 @@ The gate signal is converted into a very fast trigger which open and closes the 
 - Experiment with different capacitors for the decays. I used fairly modest values but you can get creative with it. Please note that higher values will not a close the signal that well but can create an interesting effect anyway.
 - The trimpots are not needed really, but can by handy. They set the output gain. I left mine in the middle. Alternatively you could use some fixed resistors (2x47K for instance).
 - Please note the connection of the breaking pins with ground at U3 and U8 in the schematic.
-- For the LDR's I used just cheap ones from Banggood.com (50Pcs 5MM Light Dependent Resistor Photoresistor GL5528 LDR) 
+- For the LDR's just use small and cheap ones that have at least 1M at dark resistance. I used something ones from Banggood.com (50Pcs 5MM Light Dependent Resistor Photoresistor GL5528 LDR). But type shouldn't matter. 
+- If you use banana jacks add a large pull down resistor (1M - 4.7M) at the + pin of the opamp at the signal input.
 
 ps. I will add some better looking labels on the front panel;)
 
