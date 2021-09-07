@@ -8,8 +8,8 @@ This vactrol based module converts any sound into a drum sound. It is a simple b
   - Gate Input.
   - Signal Input.
 - Outputs:
--   Short and natural "feeling" (due to vactrols) drum sound.
--   A very short trigger useful for combining with external VCA's etc.
+  - Short and natural "feeling" (due to vactrols) drum sound.
+  - A very short trigger useful for combining with external VCA's etc.
 - Two channels. each channel has a simple switch for changing the decay length.
 
 ## How It Works
