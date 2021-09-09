@@ -14,10 +14,10 @@ This vactrol based module converts any sound into a drum sound. It is a simple b
 
 
 ## How It Works
-The gate signal is converted into a very fast trigger which open and closes the vactrol by lighting its inner LED. Due to the capacitors near the vactrols and the vactrol itself that trigger is converted into more natural slopy decay. Furthermore the vactrols filter out higher frequencies while closing. Giving it a "natural" sounding effect. See image below. I inserted a square wave from a VCO. Notize two things:
+The gate signal is converted into a very fast trigger which open and closes the vactrol by lighting its inner LED. Due to the capacitors near the vactrols and the vactrol itself that trigger is converted into more natural slopy decay. Furthermore the vactrols filter out higher frequencies while closing. Giving it a "natural" sounding effect. See image below. I inserted a square wave from a VCO. Notice two things:
 
 - It has a nice slopy decay.
-- The wave in the beginning is still square like but at the end it changes more and more to triangle-isch shapes. This is actually the filter effect from the LPG, and is the part why it sounds more "natural"
+- The wave in the beginning is still square like but at the end it changes more and more to triangle-isch shapes. This is actually the filter effect from the LPG, and is the part why it sounds more "natural".
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210907_183115.jpg" height="400" />
 
