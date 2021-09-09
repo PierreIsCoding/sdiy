@@ -19,7 +19,7 @@ The gate signal is converted into a very fast trigger which open and closes the 
 - It has a nice slopy decay.
 - The wave in the beginning is still square like but at the end it changes more and more to triangle-isch shapes. This is actually the filter effect from the LPG, and is the part why it sounds more "natural"
 
-<!-- <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210907_183041.jpg" height="400" /> -->
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210907_183115.jpg" height="400" />
 
 
 
