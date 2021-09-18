@@ -26,7 +26,7 @@ The gate signal is converted into a very fast trigger which open and closes the 
 
 ## Build Notes
 - Make sure you connect the LEDs inside the vactrols according to the circuit diagram. So + pin to the 1k and the - pin to ground.
-- Just use some heatshrink tubing (maybe use the ones with glue as I did) to bundle a LDR and a white LED. See Youtube for tips on this topic.
+- Just use some heatshrink tubing (maybe use the ones with glue as I did) to bundle a LDR and a white LED. See [Youtube](https://www.youtube.com/watch?v=8BOnvSQpoGY) for tips on this topic.
 - Experiment with different capacitors for the decays. I used fairly modest values but you can get creative with it. Please note that higher values will not a close the signal that well but can create an interesting effect anyway.
 - The trimpots are not needed really, but can by handy. They set the output gain. I left mine in the middle. Alternatively you could use some fixed resistors (2x47K for instance).
 - Please note the connection of the breaking pins with ground at U3 and U8 in the schematic. If you use banana jacks instead add a large pull down resistor (1M - 4.7M) at the + pin of the opamp at the signal input.
