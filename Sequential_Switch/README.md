@@ -10,7 +10,8 @@
 * Whenever a button is pressed the clock input is disabled.
 
 ## Build notes
-* This a fairly difficult project so be aware.
+* This a fairly difficult project.
+* If you etch this project on a single layer connect the back layer with wires and see below for the header soldering.
 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sequential_Switch/images/20210929_103156.jpg" width="400" />
