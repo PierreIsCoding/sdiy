@@ -12,12 +12,14 @@
 
 ## How to use it (examples)
 * Automatically switch between different CV sources like a fast LFO, a slow LFO, and an envelope generator.
-* Build longer and more complex sequences by automatically switch between different analog step sequencers.
 * Build complex sounds by quickly looping between different VCO shapes comming from a [CEM3340 VCO](https://github.com/PierreIsCoding/sdiy/tree/main/CEM3340_VCO).
 * Build complex rhythms by switching between different simple gate patterns.
 * Switch quickly between different audio sources during a performance with the manual buttons.
+* Build longer and more complex sequences by automatically switch between different analog step sequencers.
+* Quickly jump between different step lenght of an analog sequencer by switching between four different reset clocks.
 * Create four different drum sounds and play them manually with the manual gate output into the clock input of my [Low Pass Gate](https://github.com/PierreIsCoding/sdiy/tree/main/LPG) and the CV out into the pitch control of a VCO that goes into that same LPG again.
 * Create random colored hihats by using four different noise sources and switch between with my [Probability gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) for the clock input.
+
 
 ## Build notes
 * This a fairly difficult project.
