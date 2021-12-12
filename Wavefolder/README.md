@@ -34,7 +34,7 @@ The original signal at the input. A sine wave from my CEM3340.
 @output. Input signal at 100%, Timbre at 0%.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/full_input_timbre_off.jpg" height="400" />
 
-@output. Input signal at 50%, Timbre at 0%. This is the signal where it is all about :) Alternatively you can also lower the input signal. If it gets too high it just clips everything and you dont get much wavefolding anyways.
+@output. Input signal at 100%, Timbre at 50%. This is the signal where it is all about :) Alternatively you can also lower the input signal. If it gets too high it just clips everything and you dont get much wavefolding anyways.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Timbre_half_way.jpg" height="400" />
 
 
