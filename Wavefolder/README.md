@@ -25,7 +25,7 @@ The original signal at the input. A sine wave from my CEM3340.
 @pin 1 of the TL072. Input signal at 100%. The signal gets scaled down a bit
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Full_signal_pin1_tl072.jpg" height="400" />
 
-@testpoint. Input signal at 100%, Timbre at 100%.
+@testpoint. Input signal at 100%, Timbre at 100%. When those both are at 100% the signal clips to its rail supplies.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/fully_open_all_at_testpoint.jpg" height="400" />
 
 @testpoint. Input signal at 50%, Timbre at 100%.
