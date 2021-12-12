@@ -22,19 +22,19 @@ Here are some photos of signals you should more or less get.
 The original signal at the input. A sine wave from my CEM3340.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/input_signal.jpg" height="400" />
 
-@pin 1 of the TL072. Input sigal at 100%.
+@pin 1 of the TL072. Input signal at 100%.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Full_signal_pin1_tl072.jpg" height="400" />
 
-@testpoint. Input sigal at 100%, Timbre at 100%.
+@testpoint. Input signal at 100%, Timbre at 100%.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/fully_open_all_at_testpoint.jpg" height="400" />
 
-@testpoint. Input sigal at 50%, Timbre at 100%.
+@testpoint. Input signal at 50%, Timbre at 100%.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Half%20input%20signal_full_timre_testpoint.jpg" height="400" />
 
-@output. Input sigal at 100%, Timbre at 0%.
+@output. Input signal at 100%, Timbre at 0%.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/full_input_timbre_off.jpg" height="400" />
 
-@output. Input sigal at 50%, Timbre at 0%. This is the signal where it is all about :) Alternatively you can also lower the input signal. If it gets too high it just clips everything and you dont get much wavefolding anyways.
+@output. Input signal at 50%, Timbre at 0%. This is the signal where it is all about :) Alternatively you can also lower the input signal. If it gets too high it just clips everything and you dont get much wavefolding anyways.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Timbre_half_way.jpg" height="400" />
 
 
