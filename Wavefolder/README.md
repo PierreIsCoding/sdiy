@@ -16,7 +16,7 @@ See here 'Non Lineair Circuits' design:
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220630.jpg" height="600" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220437.jpg" height="600" />
 
 ## Troubleshooting
-Here are some photos of signals you should more or less get.
+Here are some photos of signals you should more or less get. See schematic for testpoint
 
 
 The original signal at the input. A sine wave from my CEM3340.
@@ -28,7 +28,7 @@ The original signal at the input. A sine wave from my CEM3340.
 @testpoint. Input signal at 100%, Timbre at 100%. When those both are at 100% the signal clips to its rail supplies.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/fully_open_all_at_testpoint.jpg" height="400" />
 
-@testpoint. Input signal at 50%, Timbre at 100%.
+@testpoint. Input signal at 50%, Timbre at 100%. The timbre is mainly created after this testpoint. But you should get a good signal here.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Half%20input%20signal_full_timre_testpoint.jpg" height="400" />
 
 @output. Input signal at 100%, Timbre at 0%.
