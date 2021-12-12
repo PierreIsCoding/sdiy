@@ -22,7 +22,7 @@ Here are some photos of signals you should more or less get.
 The original signal at the input. A sine wave from my CEM3340.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/input_signal.jpg" height="400" />
 
-@pin 1 of the TL072. Input signal at 100%.
+@pin 1 of the TL072. Input signal at 100%. The signal gets scaled down a bit
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/Full_signal_pin1_tl072.jpg" height="400" />
 
 @testpoint. Input signal at 100%, Timbre at 100%.
