@@ -10,7 +10,7 @@ See here 'Non Lineair Circuits' design:
 
 ## Simulation
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/simulation.png" height="400" />
-Thanx to HarmO we have a very nice siumlation of this project. See link https://tinyurl.com/y38unska
+Thanx to [HarmO](https://github.com/harmo) we have a very nice siumlation of this project. See link https://tinyurl.com/y38unska
 
 ## Usage notes
 * The module needs at least signals of 10 Volts peak to peak in order to fold.
