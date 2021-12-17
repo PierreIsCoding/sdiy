@@ -1,11 +1,19 @@
 # Wavefolder
 
-This 6HP Eurorack module contains an alternative version of the Buchla Wavefolder redesigned by Non Lineair Circuits. I redesigned the complete pcb design for through hole and changed the panel design. it is a fun module to have and you create interesthing timbres for your VCO's; mainly sine and triangle and saw.
+This 6HP Eurorack module contains an alternative version of the Buchla Wavefolder redesigned by Non Lineair Circuits. I redesigned the complete pcb design for through hole and changed the panel design. It is a fun module to have and you create interesthing timbres for your VCO's; mainly sine and triangle and saw.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220416.jpg" height="800" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220416.jpg" height="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211217_100119.jpg" height="300" />
 
 See here 'Non Lineair Circuits' design:
 [Buchla Timbre](https://www.nonlinearcircuits.com/search?q=timbre&f_collectionId=5e753b733558ab3e79ff1235)
+
+## Simulation
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/simulation.png" height="400" />
+Thanx to HarmO we have a very nice siumlation of this project. See link https://tinyurl.com/y38unska
+
+## Usage notes
+* The module needs at least signals of 10 Volts peak to peak in order to fold.
 
 ## Buildnotes
 * Please check the attached BOM files. This design doesn't use the smd BC857 but a through hole 2n3906 instead
@@ -14,12 +22,6 @@ See here 'Non Lineair Circuits' design:
 * The copper side of the module is pretty exposed to whatever, so make sure when installing this module those copper traces cannot touch any other modules. Alternatively use some insulation tape to cover the pcb, or make the front panel wider.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220630.jpg" height="600" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220437.jpg" height="600" />
-
-## Simulation
-
-Thanx to HarmO we have a very nice siumlation of this project. See link https://tinyurl.com/y38unska
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/simulation.png" height="400" />
-
 
 ## Troubleshooting
 Here are some photos of signals you should more or less get. See schematic for testpoint
