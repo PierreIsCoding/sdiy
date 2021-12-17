@@ -1,6 +1,6 @@
 # Wavefolder
 
-This 6HP Eurorack module contains an alternative version of the Buchla Wavefolder redesigned by Non Lineair Circuits. I redesigned the complete pcb design for through hole and changed the panel design. It is a fun module to have and you create interesthing timbres for your VCO's; mainly sine and triangle and saw.
+This 6HP Eurorack module contains an alternative version of the Buchla Wavefolder redesigned by Non Lineair Circuits. I redesigned the complete pcb design for through hole and changed the panel design. It is a fun module to have and you create interesting timbres for your VCO's (sine, triangle and saw).
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220416.jpg" height="600" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211217_100119.jpg" height="300" />
