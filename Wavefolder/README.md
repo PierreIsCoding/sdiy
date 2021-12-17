@@ -15,6 +15,12 @@ See here 'Non Lineair Circuits' design:
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220630.jpg" height="600" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220437.jpg" height="600" />
 
+## Simulation
+
+Thanx to HarmO we have a very nice siumlation of this project. See link https://tinyurl.com/y38unska
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/simulation.png" height="400" />
+
+
 ## Troubleshooting
 Here are some photos of signals you should more or less get. See schematic for testpoint
 
