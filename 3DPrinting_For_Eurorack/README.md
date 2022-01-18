@@ -6,11 +6,6 @@ Knob for knurled 6mm shafts
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Small_Knob.PNG" width="200" />
 
-## Cap for push button
-Knob for knurled 6mm shafts
-
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201140_cr.png" height="300" />        <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Mini_Btn_Cap.PNG" height="300" />
-
 ## Knob for brass inserts
 This knob is designed for brass inserts. Insert them with with a hot solder iron. See https://www.thonk.co.uk/shop/knob-insert-for-diy-knobs/
 
@@ -18,6 +13,11 @@ This knob is designed for brass inserts. Insert them with with a hot solder iron
 
 ## Collared Cap
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201519.jpg" height="300" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Knob_Dop.PNG" height="300" />
+
+## Cap for push button
+Knob for knurled 6mm shafts
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201140_cr.png" height="300" />        <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Mini_Btn_Cap.PNG" height="300" />
 
 ## Panels
 The 4HP and 8HP Panels are designed for general purpose usage. In the back of the panel a grid is implemented so you can easily drill holes for pots and jacks in an orderly fashion. Also check out the pcb mounting parts. These need to be glued together with the panel. The pcb can be screwed in with M2 wood screws. See example below
