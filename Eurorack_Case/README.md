@@ -1,11 +1,17 @@
 # A DIY case for the Eurorack Synth
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211107_111139.jpg" height="400" />
 
-This design is a simple lightweight Skiff case for Eurorack. I used the "Behringer System 55 CP1A" for power.
+This design is a simple lightweight skiff case for Eurorack. 
+
+## Files
+- STEP files
+- Main dimensions
+
 
 ## Create Alu Back Plate
 - I used some 1mm waste ALU plate. You can cut these aluminium with a stanley knive. Just scratch both sides a few times with your knive. If you bend one side repeatedly while holding the other firmly on the edge of a table you can break it off after a short while.
-- Bending without breaking is a bit more difficult. See image. I used damp towels for grip and a strong piece of wood to keep things in line. I bended the side with a soft hamer and pushing and pulling manually.
+- Bending without breaking is a bit more difficult. See image. I used two damp towels for more grip and a strong piece of wood to bend it all. I bended the side with a soft hamer and pushing and pulling manually.
+- Idea: use some strong cardboard instead.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211101_142202.jpg" height="400" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211101_150538.jpg" height="400" />
 
@@ -35,5 +41,7 @@ This design is a simple lightweight Skiff case for Eurorack. I used the "Behring
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/Add_Panels.PNG" height="300" />
 
 ## Final
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/MAIN.PNG" height="300" />
+I used the "Behringer System 55 CP1A" for power. Have Fun !
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20220118_213830.jpg" height="500" />
 
