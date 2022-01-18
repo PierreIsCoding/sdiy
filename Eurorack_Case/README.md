@@ -1,7 +1,9 @@
 # A DIY case for the Eurorack Synth
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20220118_213830.jpg" height="500" />
 
-This design is a simple lightweight skiff case for Eurorack. This page tries to explain how to build it with a few simple words.
+A portable lightweight skiff case for Eurorack. The solution for your ever expanding modular synthesizer ;)
+
+This page explains how to build it with a few simple words and images.
 
 ## Files
 - 3D_Files; STEP file of total and STL file for little cover
