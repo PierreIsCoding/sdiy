@@ -7,7 +7,7 @@ Knob for knurled 6mm shafts
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Small_Knob.PNG" width="200" />
 
 ## Knob for brass inserts
-This knob is designed for brass inserts. Insert them with with a hot solder iron. See https://www.thonk.co.uk/shop/knob-insert-for-diy-knobs/
+This knob is designed for brass inserts. Insert them with with a hot solder iron. See https://www.thonk.co.uk/shop/knob-insert-for-diy-knobs/. The dimple can be used for adding some a dot with paint or a marker.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201844.jpg" height="300" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Knob_For_Insert.PNG" height="300" />
 
