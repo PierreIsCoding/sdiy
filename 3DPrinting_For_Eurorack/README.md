@@ -1,6 +1,22 @@
 # Print your Eurorack stuff
 This project contains STL files for printing usefull parts for your (Eurorack) Modular.
 
+## Simple Knob
+Knob for knurled 6mm shafts
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Small_Knob.PNG" width="200" />
+
+## Cap for push button
+Knob for knurled 6mm shafts
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201140_cr.png" height="300" />   <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Mini_Btn_Cap.PNG" height="300" />
+
+
+## Knob for brass inserts
+This knob is designed for brass inserts. Insert them with with a hot solder iron. See https://www.thonk.co.uk/shop/knob-insert-for-diy-knobs/
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/20220118_201844.jpg" height="300" />    <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Knob_For_Insert.PNG" height="300" />
+
 
 ## Rails
 The Rails file will give you a 3d printable rails for your Eurorack case. Instead of expensive Eurorack sliding nust and bolts this works with regular M3 fasteners!
@@ -21,10 +37,7 @@ The 4HP and 8HP Panels are designed for general purpose usage. In the back of th
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_Panel.PNG" width="200" /><img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_PCB_Panel_Mount.PNG" width="200" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/8HP_PCB_Panel_Mount_V2.PNG" width="200" />
 
-## Bonus part ;)
-Knob for knurled 6mm shafts
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/3DPrinting_For_Eurorack/images/Small_Knob.PNG" width="200" />
 
 
 
