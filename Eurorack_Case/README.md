@@ -4,8 +4,8 @@
 This design is a simple lightweight skiff case for Eurorack. This page tries to explain how to build it with a few simple words.
 
 ## Files
-- STEP files
-- Main dimensions
+- 3D_Files; STEP file of total and STL file for little cover
+- PDFs; Contains the main dimensions for the build
 
 
 ## Create Alu Back Plate
