@@ -1,5 +1,5 @@
 # A DIY case for the Eurorack Synth
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211107_111139.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20220118_213830.jpg" height="500" />
 
 This design is a simple lightweight skiff case for Eurorack. This page tries to explain how to build it with a few simple words.
 
@@ -43,5 +43,7 @@ This design is a simple lightweight skiff case for Eurorack. This page tries to 
 ## Final
 I used the "Behringer System 55 CP1A" for power. Have Fun !
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20220118_213830.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211107_111139.jpg" height="400" />
+
+
 
