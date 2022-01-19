@@ -31,6 +31,7 @@ This page explains how to build it with a few simple words and images.
 - Add the aluminium back panel and adjust the dimensions if needed.
 - Use small wood screws between the wooden "rails" and the back panel
 - Use larger wood screws between the mounting sides and the back panel
+- If you want to make a larger case you nmight consider to add an extra support in the center, as depictured here below. For the 104HP it will be strong enough without.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/Add_Back.PNG" height="300" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Eurorack_Case/images/20211101_165424.jpg" height="300" />
 
