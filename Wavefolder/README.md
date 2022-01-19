@@ -2,7 +2,7 @@
 
 This 6HP Eurorack module contains an alternative version of the Buchla Wavefolder redesigned by Non Lineair Circuits. I redesigned the complete pcb design for through hole and changed the panel design. It is a fun module to have and you create interesting timbres for your VCO's (sine, triangle and saw).
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220416.jpg" height="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211202_220416.jpg" height="600" /> 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/20211217_100119.jpg" height="300" />
 
 See here 'Non Lineair Circuits' design:
@@ -11,7 +11,7 @@ See here 'Non Lineair Circuits' design:
 ## Simulation
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Wavefolder/images/simulation.png" height="400" />
 
-Many thanx to [HarmO](https://github.com/harmo) we have a very nice simulation of this project. See [link](https://tinyurl.com/y38unska) .
+Many thanx to [HarmO](https://github.com/harmo). He gave us a very nice simulation of this project. See [link](https://tinyurl.com/y38unska) .
 
 ## Usage notes
 * The module needs at least signals of 10 Volts peak to peak in order to fold.
