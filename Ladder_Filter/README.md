@@ -6,6 +6,9 @@ This project is a perfboard design of the famous Moog Tranistsor Ladder Filter b
 
 You will have to match transistors for this project. [See here about how to](https://kassu2000.blogspot.com/2015/10/transistor-matching.html). It will require maybe an hour of your time. But it is not difficult at all, and oh wow I really love this filter! If you are SDIY enthusiast this one is a must have!
 
+## Buildnotes
+* If you build from my perfboard design please make sure the labels are connected with each other.
+
 ## Do you see the 'ladder' ?
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Ladder_Filter/images/20220122_103651.jpg" width="600" />
 
