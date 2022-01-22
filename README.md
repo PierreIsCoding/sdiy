@@ -3,6 +3,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## VCO's
 * [Luthers VCO](https://github.com/PierreIsCoding/sdiy/tree/main/Luthers_VCO) A Simple and powerful VCO.
+* [Dual VCO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_VCO) A complex VCO with lots of character.
 * [CEM3340_VCO](https://github.com/PierreIsCoding/sdiy/tree/main/CEM3340_VCO) A pcb design for the famous CEM3340 VCO.
 * [Sub Octave](https://github.com/PierreIsCoding/sdiy/tree/main/Sub_Octave) A basic sub-octave generator.
 
