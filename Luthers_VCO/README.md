@@ -3,8 +3,10 @@ A very simple and powerful VCO for the synth DIY enthusiast.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Luthers_VCO/images/20210610_174556.jpg" width="400" />
 
-This design is the result of a redesign of Moritz Klein's "Shapes VCO". 
+This design is the result of a redesign of Moritz Klein's "Shapes VCO".
 https://www.youtube.com/watch?v=OCAb2UoSPs0
+
+Note: Moritz Klein's version is quite similar as the Rene Schmitz ['CMOS VCO'](https://www.schmitzbits.de/vco4069.html), which also comes with those NTC resistors and with CMOS Schmitt Triggers. So please take a look there as well.
 
 
 ## No more 40106
