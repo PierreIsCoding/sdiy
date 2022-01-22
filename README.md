@@ -8,6 +8,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## VCF's
 * [MS20 VCF](https://github.com/PierreIsCoding/sdiy/tree/main/MS_20_VCF_Clone) A perfboard design of the famous MS20 VCF.
+* [Ladder FIlter](https://github.com/PierreIsCoding/sdiy/tree/main/Ladder_Filter) A perfboard design of the famous Ladder Filter.
 
 ## Gates, CV & Triggers
 * [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
