@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=OCAb2UoSPs0
 ## Before you start
 * Moritz Klein's version is quite similar as the Rene Schmitz ['CMOS VCO'](https://www.schmitzbits.de/vco4069.html), which also comes with those NTC resistors and with CMOS Schmitt Triggers. So please take a look there as well.
 * Moritz Klein created a very nice written manual, in collaboration with Erica Synth, that explains a lot about his VCO. [See here](https://www.ericasynths.lv/media/VCO_FINAL.pdf)
-* I would rather use a multiturn trimpot than a single one as depictured below.
+* I would rather use a 1k multiturn trimpot than the 2k single-turn as depictured below (and as in my pdfs).
 
 
 ## No more 40106
