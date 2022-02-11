@@ -1,4 +1,4 @@
-# DUAL LFO With Mix
+# DUAL LFO With CV Mixing
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/20220211_143323.jpg" height="500" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/front.PNG" height="500" />
 
