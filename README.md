@@ -15,7 +15,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Arduino Arpeggiator](https://github.com/PierreIsCoding/sdiy/tree/main/Arpeggiator) An Arduino based arpeggiator.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
-* [DualL LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
+* [Dual LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
 
 ## Gates
 * [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
