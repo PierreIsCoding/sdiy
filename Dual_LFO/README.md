@@ -44,7 +44,8 @@ How it works
 * The LEDs can be soldered in both ways. Negative leg to the right (seen from the front) will give you a green light at positive LFO voltages.
 * Check images below for soldering the extra wires.
 * Use colored wires for easy debugging
-* The original designs also have a switch for choosing between triangle or
+* The original designs also have a switch for choosing between triangle or square. I almost never use a square LFO so I simplified that one.
+* I updated the etching files a bit after my own build, so the images are on a few details different.* 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/sub_pcb_wiring.PNG" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/switches_wiring.PNG" width="400" />
