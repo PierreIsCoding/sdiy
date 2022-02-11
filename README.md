@@ -11,12 +11,15 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [MS20 VCF](https://github.com/PierreIsCoding/sdiy/tree/main/MS_20_VCF_Clone) A perfboard design of the famous MS20 VCF.
 * [Ladder Filter](https://github.com/PierreIsCoding/sdiy/tree/main/Ladder_Filter) A perfboard design of the famous Transistor Ladder Filter.
 
-## Gates, CV & Triggers
-* [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
+## CV
 * [Arduino Arpeggiator](https://github.com/PierreIsCoding/sdiy/tree/main/Arpeggiator) An Arduino based arpeggiator.
-* [Probability Gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) An analog probability generator.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
+* [DualL LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
+
+## Gates
+* [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
+* [Probability Gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) An analog probability generator.
 * [Trigger Sequencer](https://github.com/PierreIsCoding/sdiy/tree/main/Trigger_Sequencer) A Teensy based trigger sequencer.
 
 ## Drum sounds
