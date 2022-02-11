@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/20220211_143323.jpg" height="500" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/front.PNG" height="500" />
 
-This Project is a dual version of a simple traingle LFO. It also features and extra CV mixer. Thats it; simple and effective. Need another LFO?...build this one. You will use it 99% of your patches ;)
+This Project is a dual version of a simple traingle LFO. It also features and extra CV mixer. 
+That's it. Simple and effective. Need an LFO?...build this one. You will use it 99% of your patches ;)
 
 The design is based on a much older LFO design also seen in:
 *  [Simple LFO by David Haillant](https://www.davidhaillant.com/simple-lfo-1-5/#more-2112)
@@ -18,12 +19,13 @@ The design is based on a much older LFO design also seen in:
   * Amplitude potentiometer.
 * CV mixer of both LFO outputs.
 * Bi colored LED's to see the up and down motion.
-* Etching files for single board pcb.
+* Etching files for single layered board pcb.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/20220211_143504.jpg" width="300" />
 
 ## Simulation
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/falstad.PNG" width="300" />
+
 [Check simulation here](https://tinyurl.com/yawfhe7n)
 
 How it works
