@@ -29,12 +29,13 @@ The design is based on a much older LFO design also seen in:
 [Check simulation here](https://tinyurl.com/yawfhe7n)
 
 How it works
-* capacitor charges up at first op amp
-* this gives a rising voltages at input of second opamp
-* The second opampis in comparator configuration
-* When that voltage is high enough switches from high to negative
-* That negative voltage discharges the capacitor
-* The comparator goes into postive and the capacitor charges again
+* Capacitor charges up at first op amp.
+* This gives a rising voltages at input of the second opamp.
+* The second opamp is in comparator configuration.
+* When that voltage is high enough it switches from high to negative.
+* That negative voltage discharges the capacitor.
+* The comparator goes into postive and the capasitor charges again.
+* and again etc....
 * The main trick here is giving the comparator that extra feedback transistor. That makes the comparator a "Schmitt Trigger".
 * Since that feedback transistor is relatively small the Schmitt Trigger zone is pretty large. See in the simulation what happens if you change it ;)
 
