@@ -28,7 +28,7 @@ The design is based on a much older LFO design also seen in:
 
 [Check simulation here](https://tinyurl.com/yawfhe7n)
 
-How it works
+## How it works
 * Capacitor charges up at first op amp.
 * This gives a rising voltages at input of the second opamp.
 * The second opamp is in comparator configuration.
@@ -43,9 +43,9 @@ How it works
 ## Buildnotes
 * The LEDs can be soldered in both ways. Negative leg to the right (seen from the front) will give you a green light at positive LFO voltages.
 * Check images below for soldering the extra wires.
-* Use colored wires for easy debugging
+* Use colored wires for easy debugging.
 * The original designs also have a switch for choosing between triangle or square. I almost never use a square LFO so I simplified that one.
-* I updated the etching files a bit after my own build ( so you don't need to correct my errors), therefore the images are on a few details a bit different.* 
+* I updated the etching files a bit after my own build ( so you don't need to correct my errors), therefore the images are on a few details a bit different.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/sub_pcb_wiring.PNG" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/switches_wiring.PNG" width="400" />
