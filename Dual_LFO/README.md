@@ -2,11 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/20220211_143323.jpg" height="500" />  <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/front.PNG" height="500" />
 
-This Project is a dual version of a simple traingle LFO. It features and extra CV mixer. This design is based on a much older LFO design also seen in:
+This Project is a dual version of a simple traingle LFO. It also features and extra CV mixer. Thats it; simple and effective. Need another LFO?...build this one. You will use it 99% of your patches ;)
+
+The design is based on a much older LFO design also seen in:
 *  [Simple LFO by David Haillant](https://www.davidhaillant.com/simple-lfo-1-5/#more-2112)
 *  [CGS utility LFO](https://sdiy.info/wiki/CGS_utility_LFO)
 
-<!--  style="margin:20px;" -->
 
 
 ## Features
@@ -21,6 +22,20 @@ This Project is a dual version of a simple traingle LFO. It features and extra C
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/20220211_143504.jpg" width="300" />
 
+## Simulation
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/falstad.PNG" width="300" />
+[Check simulation here](https://tinyurl.com/yawfhe7n)
+
+How it works
+* capacitor charges up at first op amp
+* this gives a rising voltages at input of second opamp
+* The second opampis in comparator configuration
+* When that voltage is high enough switches from high to negative
+* That negative voltage discharges the capacitor
+* The comparator goes into postive and the capacitor charges again
+* The main trick here is giving the comparator that extra feedback transistor. That makes the comparator a "Schmitt Trigger".
+* Since that feedback transistor is relatively small the Schmitt Trigger zone is pretty large. See in the simulation what happens if you change it ;)
+
 
 ## Buildnotes
 * The LEDs can be soldered in both ways. Negative leg to the right (seen from the front) will give you a green light at positive LFO voltages.
@@ -31,10 +46,3 @@ This Project is a dual version of a simple traingle LFO. It features and extra C
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/sub_pcb_wiring.PNG" width="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Dual_LFO/images/switches_wiring.PNG" width="400" />
 
-
-
-<!-- 
-
-This Project is an optimised VCO design for home single layer etching. It is a powerful VCO with the almighty and classic CEM3340. I looked at the version of [Kassutronics](https://kassu2000.blogspot.com/2018/06/vco-3340.html), [Electricdruid](https://electricdruid.net/cem3340-vco-voltage-controlled-oscillator-designs/) and  [Digisound](https://www.eddybergman.com/2020/01/synthesizer-build-part-18-really-good.html) as a starting point.
-
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/CEM3340_VCO/images/20210808_181042.jpg" width="300" /> -->
