@@ -4,6 +4,9 @@ This project is the design of a simple Arduino based arpeggiator for the sdiy en
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Arpeggiator/images/20210813_130817.jpg" height="400" />
 
+ --------- UPDATE-- 11-2-2022
+R15 needs to be 200k instead of 100k
+
 ## Features
 * Set 12 different chords with a rotary switch
 * Set 12 different patterns with a rotary switch
