@@ -1,6 +1,14 @@
 # Hacked_Operator
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_171313.jpg" width="300" />
+
+
+
 This project helps you to "hack" your own Pocket Operator for using it in your Modular Synthesiser. However it requires a little bit of checking and hacking on your own behalf. I only tested the PO-20 (Arcade) but I am quite sure all the others will work the same way. Please check the pdf and images for info. I have also added stl files for your 3D printing.
 
+## Files
+* 3D printing files for making the Eurorack front panel.
+* PDF for the wiring.
+* High res images.
 
 ## Disclaimer
 Please be careful because you can distroy your Pocket Operator and know that is totally on you own risk ! 
@@ -15,5 +23,34 @@ Please be careful because you can distroy your Pocket Operator and know that is 
 - Success!
 
 <br>
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_171313.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_174954.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_175006.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_175014.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_175053.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_183254.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_183339.jpg" width="600" />
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_183347.jpg" width="600" />
+<br>
+
+
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Hacked_Operator/images/20210218_183405.jpg" width="600" />
 <br>
