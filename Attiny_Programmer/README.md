@@ -18,7 +18,7 @@ A programmer for the Attiny 84 and 85 with breadboard helpers.
 ## Files
 * Pdf for etching the pcb's on a single layer.
 * Pdf for adding artwork to those pcb's.
-* Interactive BOM file.* 
+* Interactive BOM file.
 
 ## Buildnotes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144756.jpg" height="300" />
