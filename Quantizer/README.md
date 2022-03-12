@@ -40,12 +40,22 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - Change the scale by keep pressing the scale button while tapping either the UP ow DOWN buttons.
 - Connect the output trigger to an envelope generator which opens and closes the VCO signal.
 
+## How it works; leds
+There are many ways to drive leds with a microprocessor. One of the less known ways is using a technique called "Charlie Plexing". I really wanted to try out this techniue once and I found this project the perfect candidate for it. The result of technique is that it only uses 4 digital pins for setting 12 leds. Check the simulation [here.](https://tinyurl.com/ybuk2pdh)
 
-# Buildnotes
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/tri_state.PNG" height="500" />
+
+Also check out my code for it since it can be used for other number of leds as well. 
+The max achievable leds is calculated by 2 * ( [number of pins] nCr 2 ).
+See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info about this technique.
+
+
+
+## Buildnotes
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135254.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135308.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/tri_state.PNG" height="500" />
+
