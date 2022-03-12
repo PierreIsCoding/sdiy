@@ -83,8 +83,25 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
+
+## LEDs
+- Take extra notice of the orientation of the leds. Please consult the iBom or f-silkscreen pdf. If one is off multiple leds will turn on unwantedly.
+- Solder the leds before solder the female header pins for the Arduino.
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135254.jpg" height="500" />
+
+## Bypass caps
+- If your bypass caps (C1 and C2) are too large bent them horizontally. See image. 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135308.jpg" height="500" />
+
+## 1N5817 and 1N4148
+- Make sure the line on D2 and D4 are under. See image below.
+- <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
+
+## Power connector
+- I used for this project male header pins with angled pins, sourced from Tayda. However mine were to large, so I had to cut them smaller. See image below.
+- Add a red mark for your -12V.
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
 
