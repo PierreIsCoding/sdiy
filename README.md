@@ -16,6 +16,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
 * [Dual LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
+* [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerfull quantizer.
 
 ## Gates
 * [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
