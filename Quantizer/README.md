@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/labels.jpg" height="500" /><img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_134829.jpg" height="500" />     
 
-Another Quantizer? Yes! This project represents a powerfull, precize and flexible quantizer with not so many components in 6HP wide. It lets you quantize cv-levels with a 16-bit pwm based DAC using only two pins and the internal timers of an Arduino Nano. Musically it really can change your game. So why not build this one for yourself?
+Another Quantizer? Yes! This project represents a powerfull, precize and flexible quantizer with not so many components and only 6HP wide. It lets you quantize cv-levels with a 16-bit pwm based DAC using only two pins and the internal timers of an Arduino Nano. Musically it really can change your game. So why not build this one for yourself?
 
 ## Features
 - Quantizes incomming cv signals to 7 scales, 4 triades or octaves, with a 16-bit precision output.
@@ -10,8 +10,7 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - A "Sample and Hold" mode. When a jack is inserted into the clock input the device goes automatically into S&H mode. In this mode the quantizer only outputs a new quantized value after receiving the next clock pulse.
 - Add glide to the output cv.
 - Change on the fly how the module receives bipolar and unipolar input cv-signals.
-- The leds represent piano keys.
-- 
+- The leds represent piano keys.- 
 
 ## Files
 - Files for etching this project on a single board and single layer.
@@ -22,7 +21,7 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 ## How to use it; example 1 (LFO)
 - Connect the output cv with the 1V/oct of your favourite VCO.
 - Insert a bipolar LFO into the cv-in of the module.
-- Press the UP and DOWN buttons together. Now the module goes into bipolar mode.
+- Press the UP and DOWN buttons together. Now the module goes into bipolar mode. Notice that in unipolar mode negative values will be rejected by the module, while in bipolar mode both negative and positive values will be quantized and scaled accordingly.
 - Change the scale by keep pressing the SCALE button while tapping either the UP ow DOWN buttons
 
 ## How to use it; example 2 (sequencer)
