@@ -87,7 +87,6 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 - Take extra notice of the orientation of the leds. Please consult the iBom or f-silkscreen pdf. If one is off multiple leds will turn on unwantedly.
 - Solder the leds before solder the female header pins for the Arduino.
 
-
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135308.jpg" height="500" />
 
 
@@ -99,6 +98,7 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 
 ## 1N5817 and 1N4148
 - Make sure D2 and D4 are oriented correctly. See image below.
+- Solder those jack afterwards.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/orientation.png" height="500" />
 
