@@ -10,7 +10,12 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - A "Sample and Hold" mode. When a jack is inserted into the clock input the device goes automatically into S&H mode. In this mode the quantizer only outputs a new quantized value after receiving the next clock pulse.
 - Add glide to the output cv.
 - Change on the fly how the module receives bipolar and unipolar input cv-signals.
-- The leds represent piano keys.- 
+- The leds represent piano keys.
+
+## Attention
+- Building and using this module is on your own risk.
+- This module does not have protecion diodes for connection the power wrongly. So please be carefull.
+- Be carefull of the orientation of certain components like the diodes. See image below.
 
 ## Files
 - Files for etching this project on a single board and single layer.
@@ -52,7 +57,30 @@ See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info abou
 
 
 
-## Buildnotes
+# Buildnotes
+
+## Uploading code
+Uploading code to your arduino can be tricky since doing it wrong can potentially damage your computer or your module. Let's say you have inserted the Arduino in the module, consider these things:
+-  When you directly connect the Arduino of the module to your computer your usb turns on the Arduino, but not the rest of your module, beacuse the other parts need that special -12V and +12V of your synth power supply. This means that the Arduino sends voltages to the opamp which is currently turned off. Opamps do not like that.
+- When your synthesizer powers your module with the inserted Arduino, and on the same time you also connect that Arduino to your usb-port you can damage your USB-port!
+- So the best and simple way is to remove the Arduino, upload the code, disconnect your usb, insert the Arduino into the module and turn the module on with your synth power supply.
+- Or make a special cable that only connects the USB-data pins to your Arduino but NOT the USB-power. Now you can upload the code while powering the module from your synth.
+
+## Calibration [optional]
+- Technique 1:
+  - Measure the output voltage.
+  - Use the transpose function to change the output level from 0V to 4V.
+- Technique 2:
+  - Connect the output CV to a well calibrated and warmed up VCO.
+  - Use a tuner. I really like the Universal Tuner app on Android. 
+  - Tune the lowest note to C1.
+  - Check if the highest note is a C5. Use the transpose function for this.
+  - The advantage of this technique is that the tuner is more precise than a cheap multimeter.
+- Adjusting:
+  - See the "Globals section" in the quantizer code.
+  - If the tracking overshoots decrease the "semitone" parameter.
+  - If the tracking undershoot increase the "semitone" parameter.
+
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135254.jpg" height="500" />
