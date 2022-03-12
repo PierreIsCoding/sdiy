@@ -81,8 +81,6 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
   - If the tracking overshoots decrease the "semitone" parameter.
   - If the tracking undershoot increase the "semitone" parameter.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" />
-
 ## LEDs
 - Take extra notice of the orientation of the leds. Please consult the iBom or f-silkscreen pdf. If one is off multiple leds will turn on unwantedly.
 - Solder the leds before solder the female header pins for the Arduino.
