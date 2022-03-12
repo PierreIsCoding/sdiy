@@ -17,6 +17,7 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - The code for an Arduino Nano.
 - Front panel dimensions.
 - File for labels....updated soon.
+- iBom.
 
 ## How to use it; example 1 (LFO)
 - Connect the output cv with the 1V/oct of your favourite VCO.
