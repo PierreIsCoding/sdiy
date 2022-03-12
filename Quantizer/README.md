@@ -9,7 +9,9 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - Trigger output. Every time an incomming cv-signal gets quantized to a new signal the trigger out sends a pulse for external envelope generators etc.
 - A "Sample and Hold" mode. When a jack is inserted into the clock input the device goes automatically into S&H mode. In this mode the quantizer only outputs a new quantized value after receiving the next clock pulse.
 - Add glide to the output cv.
-- Change on the fly how the module receives bipolar and unipolar input cv-signals.
+- Change on the fly how the module receives bipolar and unipolar input cv-signals. 
+  - Uni-polar: 0V to +5V.
+  - Bi-polar: -3.5V to +5V.
 - The leds represent piano keys.
 
 ## Attention
@@ -54,8 +56,6 @@ There are many ways to drive leds with a microprocessor. One of the less known w
 Also check out my code for it since it can be used for other number of leds as well. 
 The max achievable leds is calculated by 2 * ( [number of pins] nCr 2 ).
 See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info about this technique.
-
-
 
 # Buildnotes
 
@@ -105,4 +105,6 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 - Add a red mark for your -12V.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
+
+
 
