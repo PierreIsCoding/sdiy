@@ -49,12 +49,11 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 - Connect the output trigger to an envelope generator which opens and closes the VCO signal.
 
 ## How it works; leds
-There are many ways to drive leds with a microprocessor. One of the less known ways is using a technique called "Charlie Plexing". I really wanted to try out this techniue once and I found this project the perfect candidate for it. The result of technique is that it only uses 4 digital pins for setting 12 leds. Check the simulation [here.](https://tinyurl.com/ybuk2pdh)
+There are many ways to drive leds with a microprocessor. One of the less known ways is using a technique called "Charlie Plexing". I really wanted to try out this techniue once and I found this project the perfect candidate for it. The benefit of this technique is that it only requires 4 digital pins for managing 12 leds. Check the simulation [here.](https://tinyurl.com/ybuk2pdh)
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/tri_state.PNG" height="500" />
 
-Also check out my code for it since it can be used for other number of leds as well. 
-The max achievable leds is calculated by 2 * ( [number of pins] nCr 2 ).
+The maximum usable leds is calculated by 2 * ( [number of pins] nCr 2 ). Check out my code class, since it can be used for other numbers as well. 
 See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info about this technique.
 
 # Buildnotes
