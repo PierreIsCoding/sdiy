@@ -4,7 +4,7 @@
 This project is a perfboard design of the useful Bafaco's Output V3. I use it a lot when I record my noodling externally or when I want to connect the audio with my speakers directly. 
 
 I made a few little simplifications for the perfboard. So it is not a 1:1 copy. 
-For schematics and bom list see [here](https://www.befaco.org/out-v3).
+For the original schematics and BOM file see [here](https://www.befaco.org/out-v3).
 
 ## Files
 - Perfboard design
