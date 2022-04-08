@@ -31,6 +31,9 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 ## Effects
 * [Wave Folder](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) A pcb design of a wavefolder.
 
+## Utilities
+* [Output V3](https://github.com/PierreIsCoding/sdiy/tree/main/Output) A perfboard design of Befaco's Output V3 module.
+
 ## Tools
 * [Measure Man](https://github.com/PierreIsCoding/sdiy/tree/main/Measure_Man) A handy tool for checking and measuring synth related stuff.
 * [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer) Programm and develop your Attiny 85 or 84 with this tool.
