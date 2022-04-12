@@ -20,11 +20,31 @@ A programmer for the Attiny 84 and 85 with breadboard helpers.
 * Pdf for adding artwork to those pcb's.
 * Interactive BOM file.
 
-## installing the software
-* Maybe I will update this with my own tutorial, but these ones should be fine
+## Installing the software
+* Maybe I will update this with my own tutorial, but these ones should help you.
+  * https://www.hackster.io/arjun/programming-attiny85-with-arduino-uno-afb829
+  * https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
   * http://highlowtech.org/?p=1229 
   * http://highlowtech.org/?p=1706
   * http://highlowtech.org/?p=1695
+
+## Testing
+Copy these lines into a new sketch for your blink test.
+
+``` C++
+int led = 3;  
+
+void setup() {
+  pinMode(led, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);               // wait for a second
+}
+```
 
 ## Buildnotes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144756.jpg" height="300" />
