@@ -20,6 +20,12 @@ A programmer for the Attiny 84 and 85 with breadboard helpers.
 * Pdf for adding artwork to those pcb's.
 * Interactive BOM file.
 
+## installing the software
+* Maybe I will update this with my own tutorial, but these ones should be fine
+  * http://highlowtech.org/?p=1229 
+  * http://highlowtech.org/?p=1706
+  * http://highlowtech.org/?p=1695
+
 ## Buildnotes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144756.jpg" height="300" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144345.jpg" height="300" />
