@@ -2,15 +2,25 @@
 
 ## 1 - Voltage Dividers
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/1_Voltage_Dividers.JPG" width="800"  />
+Link to Simulation: https://tinyurl.com/y4fgdsr7
 
 ## 2 - Buffers
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/2_Buffers.png" width="800" />
+Link to Simulation: https://tinyurl.com/y6rt3kdc
 
 ## 3 - Basic Amplifiers
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/3_Amplifiers.png" width="800" />
+Link to Simulation: https://tinyurl.com/y2zqshor
 
 ## 4 - Offset
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/4_Offset.png" width="800" />
+Link to Simulation: https://tinyurl.com/y2j6tu7h
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/4_Remove_Offset.png" width="600" />
+Link to Simulation: https://tinyurl.com/y5c9s9pm
 
 ## 5 - Comparators
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/5_Comparators.png" width="800" />
