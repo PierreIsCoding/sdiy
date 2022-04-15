@@ -51,6 +51,6 @@
 
 
 ## 14 - Arduino Input
-## 15 - Arduino & LEDS
+## 15 - Arduino Output
 ## 16 - Arduino & LEDS
 ## 17 - Arduino & DAC
