@@ -18,7 +18,7 @@
 ## 6 - Schmitt Triggers
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/6_Schmitt_Triggers.png" width="800" />
 
-## 7 - CV Processing
+## 7 - CV / Audio Processing
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/7_CV_Processing.png" width="800" />
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/7_Attenuator.PNG" width="600" />
