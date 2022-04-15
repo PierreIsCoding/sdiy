@@ -51,6 +51,16 @@
 
 
 ## 14 - Arduino Input
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Gates_Buttons.png" width="800" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Analog_Read.PNG" width="800" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Analog_Read_With_Bias.PNG" width="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Luthers_Read.PNG" width="600" />
+
 ## 15 - Arduino Output
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/15_Arduino_Output.png" width="800" />
+
 ## 16 - Arduino & LEDS
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/16_Charlie_Plexing.PNG" width="600" />
+
 ## 17 - Arduino & DAC
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/17_R2R_DAC.PNG" width="600" />
