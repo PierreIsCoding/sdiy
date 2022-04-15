@@ -2,7 +2,7 @@
 
 This page contains an overview of building blocks, for designing electronic circuits, I collected during my Synth-DIY-Journey.
 
-Each element is created in Circuit.js, which is a fanstastic online simulator for electronic circuits. You can open each simulation to play with it, to copy, remove, edit and ultimatly to build your own designs. Although I will add some explanation later I urge you to just start the experiment and look up online for more information about how and why things work that way. There is much more out there but this is definitely a good start for own SDIY journey.
+Each element is created in Circuit.js, which is a fanstastic online simulator for electronic circuits. You can open each simulation to play with it, to copy, remove, edit and ultimatly to build your own designs. Although I will add some explanation later I urge you to just start the experiment and look up online for more information about how and why things work that way. There is much more out there but this is definitely a good start for own SDIY journey. Once you start to master these elements you will discover designing electronic circuit don't need to be that difficult at all. It is just like Lego; combining existing smaller elements into new projects. Good Luck, Luther.
 
 ## Content
 
