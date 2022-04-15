@@ -1,6 +1,9 @@
 # SDIY
 A collection of 'Synth DIY' projects done by L.Geerinckx. 
 
+## Learning
+* [SDIY Building Blocks](https://github.com/PierreIsCoding/sdiy/tree/main/Building_Blocks) An overview of important SDIY building blocks.
+
 ## VCO's
 * [Luthers VCO](https://github.com/PierreIsCoding/sdiy/tree/main/Luthers_VCO) A Simple and powerful VCO.
 * [Dual VCO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_VCO) A complex VCO with lots of character.
