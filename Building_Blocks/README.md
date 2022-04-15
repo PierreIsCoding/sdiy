@@ -1,5 +1,6 @@
 # SDIY Building Blocks 
 
+
 ## 1 - Voltage Dividers
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/1_Voltage_Dividers.JPG" width="800"  />
 Link to Simulation: https://tinyurl.com/y4fgdsr7
@@ -12,7 +13,7 @@ Link to Simulation: https://tinyurl.com/y6rt3kdc
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/3_Amplifiers.png" width="800" />
 Link to Simulation: https://tinyurl.com/y2zqshor
 
-## 4 - Offset
+## 4 Offset
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/4_Offset.png" width="800" />
 Link to Simulation: https://tinyurl.com/y2j6tu7h
 <br/><br/>
@@ -67,43 +68,50 @@ Link to Simulation: https://tinyurl.com/y5h7kqu5
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/12_LFO.PNG" width="600" />
 Link to Simulation: https://tinyurl.com/yypujsgn
-<br/><br/>
 
 ## 13 - Wave Shaping
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/13_Saw-Tri.PNG" width="600" />
 Link to Simulation: https://tinyurl.com/y5nqnyt3
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/13_Saw-PWM.PNG" width="600" />
 Link to Simulation: https://tinyurl.com/y4zrqjb5
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/13_Tri-Si.PNG" width="600" />
 Link to Simulation: https://tinyurl.com/y5sctha9
+<br/><br/>
 
 ## 14 - Arduino Input
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Gates_Buttons.png" width="800" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/yyxcgb33
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Analog_Read.PNG" width="800" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/y3dc2jfe
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Analog_Read_With_Bias.PNG" width="600" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/y24o75v5
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Check_Jack.png" width="600" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/yxt6oxd6
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Luthers_Read.PNG" width="600" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/yxwr3259
+<br/><br/>
 
 ## 15 - Arduino Output
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/15_Arduino_Output.png" width="800" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/yxgtt7k9
 
 ## 16 - Arduino & LEDS
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/16_Charlie_Plexing.PNG" width="600" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/y2xoyye4
 
 ## 17 - Arduino & DAC
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/17_R2R_DAC.PNG" width="600" />
-Link to Simulation:
+Link to Simulation: https://tinyurl.com/y5epdotw
 
