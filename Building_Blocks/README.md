@@ -121,8 +121,6 @@ Link to Simulation: https://tinyurl.com/yyxcgb33
 <br/><br/>
 
 
-
-
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Analog_Read.PNG" width="800" />
 Link to Simulation: https://tinyurl.com/y3dc2jfe
 <br/><br/>
@@ -144,7 +142,11 @@ Link to Simulation: https://tinyurl.com/yxwr3259
 Link to Simulation: https://tinyurl.com/yxgtt7k9
 
 ## 16 Arduino LEDS
-Note: also take a look at [Led Drivers](#11-led-drivers). They will also work with an Arduino.
+Note: please also take a look at [Led Drivers](#11-led-drivers). They all will work with the Arduino.
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/16_bicolor.png" width="600" />
+Link to Simulation: https://tinyurl.com/y6kloc9z
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/16_Charlie_Plexing.PNG" width="600" />
 Link to Simulation: https://tinyurl.com/y2xoyye4
