@@ -107,11 +107,11 @@ Link to Simulation: https://tinyurl.com/y5sctha9
 
 ## 14 Arduino Input
 
-### Explanation pull-down and pull-down resistors
+### Explanation of pull-down and pull-up resistors
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Building_Blocks/images/14_Pull_Up_Down.png" width="800" />
 
 * Link to Simulation: https://tinyurl.com/y3vw2pvz
-* To understand how pull-down and pull-down work please open the simulation and look at the first step. Here the "Logic Input" represents a digital pin of an Arduino, or any other logical input. The problem here simulated is that the switch actually unconnecteds the logical input to nothing. If you press the button and thus connect the logical input with +5V the pin will see a very clear HIGH. Unfortunately as long as the pin is unconnected even the smallest bit of noise, picked up from its surroundings, can randomly affect what the input sees. That is why you see that flickering.
+* To understand how pull-down and pull-up resistors work please open the simulation and look at the first step. Here the "Logic Input" represents a digital pin of an Arduino, or any other logical input. The problem here simulated is that the switch actually unconnecteds the logical input to nothing. If you press the button and thus connect the logical input with +5V the pin will see a very clear HIGH. Unfortunately as long as the pin is unconnected even the smallest bit of noise, picked up from its surroundings, can randomly affect what the input sees. That is why you see that flickering.
 * So why don't we just connect that pin to ground? In step 2 you don't see that flickering, because the logical input now sees a clear 0V signal. Problem solved? Unfortunatly when you hit the switch the simulation stops because you created a short circuit! You have to open the switch and restart the simulation. The reason is because while the switch is closed the +5V is directly connected to ground.
 * The solution is that we want, while preventing any short circuit and while noise might be represented, is a logical input to see a clear 0V signal when open, and a clear +5V signal when closed. In step 3 you see that we added a resistor for that. This configuration is called a "pull-down resistor", eventhough the actual resistor is not pulling anything down, but only protecting the +5V power source!
 * In step 3 when you close the button the logical input reads a HIGH and vica versa. You can also inverse that logic with a "pull-up resistor". Step 4 shows how.
