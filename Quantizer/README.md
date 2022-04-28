@@ -100,7 +100,7 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/orientation.png" height="500" />
 
 ## Power connector
-- I used for this project male header pins with angled pins, sourced from Tayda. However mine were to large, so I had to cut them smaller. See image below.
+- I used for this project male header pins with angled pins, sourced from Reichelt. However mine were to large, so I had to cut them smaller. See image below.
 - Add a red mark for your -12V.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
