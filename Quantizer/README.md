@@ -60,7 +60,7 @@ See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info abou
 
 ## Uploading code
 Uploading code to your arduino can be tricky since doing it wrong can potentially damage your computer or your module. Let's say you have inserted the Arduino in the module, consider these things:
--  When you directly connect the Arduino of the module to your computer your usb turns on the Arduino, but not the rest of your module, beacuse the other parts need that special -12V and +12V of your synth power supply. This means that the Arduino sends voltages to the opamp which is currently turned off. Opamps do not like that.
+-  When you directly connect the Arduino of the module to your computer your usb turns on the Arduino, but not the rest of your module, beacuse the other parts need that special -12V and +12V of your synth power supply. This means that the Arduino sends voltages to the opamp while it is currently turned off. Opamps do not like that.
 - When your synthesizer powers your module with the inserted Arduino, and on the same time you also connect that Arduino to your usb-port you can damage your USB-port!
 - So the best and simple way is to remove the Arduino, upload the code, disconnect your usb, insert the Arduino into the module and turn the module on with your synth power supply.
 - Or make a special cable that only connects the USB-data pins to your Arduino but NOT the USB-power. Now you can upload the code while powering the module from your synth.
@@ -105,5 +105,7 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
 
+## Improvements
+- Lowering R16 to let's say 100 ohm, or even remove it lowers the output impedance. Do this if the modules you connect the output to have relatively low input impedance. 
 
 
