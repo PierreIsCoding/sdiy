@@ -106,6 +106,6 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
 
 ## Improvements
-- Lowering R16 to let's say 100 ohm, or even remove it lowers the output impedance. Do this if the modules you connect the output to have relatively low input impedance. 
+- Lowering R16 to let's say 100 ohm, or even remove it lowers the output impedance. Do this if the modules you connect the output to have a relatively low input impedance. 
 
 
