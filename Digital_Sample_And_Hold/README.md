@@ -22,6 +22,11 @@ A handy dandy Attiny84 based CV module with more features than parts. For the SD
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front_image.jpg" height="500"/>
 
+## How It Works
+The goal for me, appart from having the features the module comes with, was to experiment with the Attiny84 by designing a module for it. The Attiny84 is a powerfull little MCU, small and cheap. By adding an external 16MHz crystal its as fast a an Arduino Nano, or even better you can make it faster by using an 20MHz. The formfactor is ideal for small SDIY projects. Especially if you don't need al those pins.
+
+For the DAC (digital to analog converter) I used the same PWM setup as with my quantizer module, since it just works great. For the ADC (analog to digital converter) I wanted to use something else. The onboard ADC is just 10 bit. That is not much if you want to use it for a more precise and wide range bipolar Sample & Hold module. I also didn't want to use a dedicated chip for it, since those  require a lot of extra programming, more pins and it can interfere with the ADC. I figured that the most simple solution would be hack... Using the 16 bit PWM-based output for finding the input!
+
 ## Build Notes
 * This module has build-in ISP (in system programmer) headers to connect with a programmer and to upload the code to the Attiny84. For this I creates a little adapter on a piece of perfboard so I could connect it wiht my DIY Arduino Nano programmer. See [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer)   
 * Please note the extra wires underneath the IC's. 
