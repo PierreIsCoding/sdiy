@@ -38,8 +38,9 @@ For the search signal I used the same signal as for the actuall output, because 
 
 
 ## Build Notes
-* This module has build-in ISP (in system programmer) headers to connect with a programmer and to upload the code to the Attiny84. For this I creates a little adapter on a piece of perfboard so I could connect it wiht my DIY Arduino Nano programmer. See [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer)   
 * Please note the extra wires underneath the IC's. 
+* This module has build-in ISP (in system programmer) headers to connect with a programmer and to upload the code to the Attiny84. For this I creates a little adapter on a piece of perfboard so I could connect it wiht my DIY Arduino Nano programmer. See [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer)   
+* When uploading the code set the Clock Division switch to 1:2 (downwards), else the programmer will be interfered.
 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/programming.jpg" height="500" />
