@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front.png" height="500" />
 
-A handy dandy Attiny84 based CV module with more features than parts, for the SDIY enthusiast.
+A handy dandy Attiny84 based CV module with more features than parts, and for the SDIY enthusiast.
 
 ## Features
 * Digital Sample & Hold; Sample bipolar CV sources without the "droop" of a traditional analog Sample & Hold. Ideal for longer back melodies.
