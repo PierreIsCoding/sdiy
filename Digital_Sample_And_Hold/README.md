@@ -27,6 +27,14 @@ The goal for me, appart from having the features the module comes with, was to e
 
 For the DAC (digital to analog converter) I used the same PWM setup as with my quantizer module, since it just works great. For the ADC (analog to digital converter) I wanted to use something else. The onboard ADC is just 10 bit. That is not much if you want to use it for a more precise and wide range bipolar Sample & Hold module. I also didn't want to use a dedicated chip for it, since those  require a lot of extra programming, more pins and it can interfere with the ADC. I figured that the most simple solution would be hack... Using the 16 bit PWM-based output for finding the input!
 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/search.png" height="300"/>
+
+The image above shows you what happens. The module finds the incomming signal by swirling around the signal with a search signal. At each step the module only needs to now if the search signal is bigger or lower than the incomming signal. Then the search signal subsequently narrows it down until the difference between the search signal and the incomming signal is smaller than the 16-bit DAC can actually produce, hence it "found" the signal. This happens of course super fast in just a few miliseconds. The downside is that this search signal can be hearable just a tiny bit when the output cv signal is used for a VCO. Nevertheless a few miliseconds is almost not noticable and with some experimentation this can be further optimized.
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" height="500"/>
+
+
+
 ## Build Notes
 * This module has build-in ISP (in system programmer) headers to connect with a programmer and to upload the code to the Attiny84. For this I creates a little adapter on a piece of perfboard so I could connect it wiht my DIY Arduino Nano programmer. See [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer)   
 * Please note the extra wires underneath the IC's. 
