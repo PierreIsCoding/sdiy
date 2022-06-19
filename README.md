@@ -17,6 +17,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 ## CV
 * [Arduino Arpeggiator](https://github.com/PierreIsCoding/sdiy/tree/main/Arpeggiator) An Arduino based arpeggiator.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
+* [Digital Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Digital_Sample_And_Hold) A Digital Sample And Hold with lots of extras.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
 * [Dual LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
 * [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerful quantizer.
