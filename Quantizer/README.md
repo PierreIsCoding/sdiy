@@ -51,7 +51,7 @@ Another Quantizer? Yes! This project represents a powerfull, precize and flexibl
 ## How it works; leds
 There are many ways to drive leds with a microprocessor. One of the less known ways is using a technique called "Charlie Plexing". I really wanted to try out this techniue once and I found this project the perfect candidate for it. The benefit of this technique is that it only requires 4 digital pins for managing 12 leds. Check the simulation [here.](https://tinyurl.com/ybuk2pdh)
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/tri_state.PNG" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/tri_state.PNG" width="600" />
 
 The maximum usable leds is calculated by 2 * ( [number of pins] nCr 2 ). Check out my code class, since it can be used for other numbers as well. 
 See this [wiki](https://en.wikipedia.org/wiki/Charlieplexing) for more info about this technique.
@@ -90,20 +90,20 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 ## Bypass caps
 - If your bypass caps (C1 and C2) are too large bent them horizontally. See image. 
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135254.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135254.jpg" width="600"" />
 
 
 ## 1N5817 and 1N4148
 - Make sure D2 and D4 are oriented correctly. See image below.
 - Solder those jack afterwards.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/orientation.png" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/orientation.png" width="600" />
 
 ## Power connector
 - I used for this project male header pins with angled pins, sourced from Reichelt. However mine were to large, so I had to cut them smaller. See image below.
 - Add a red mark for your -12V.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/cut.jpg" width="600" />
 
 ## Improvements
 - Lowering R16 to let's say 100 ohm, or even remove it lowers the output impedance. Do this if the modules you connect the output to have a relatively low input impedance. 
