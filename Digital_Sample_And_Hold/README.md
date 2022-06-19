@@ -14,7 +14,7 @@ A handy dandy Attiny84 based CV module with more features than parts, and for th
 * Momentary or Toggle clock; 
   * When in S&H mode and 1:1 the incomming clock pulses directly set the next sample.
   * When in S&H mode and 1:2 the incomming clock pulses are divided by two. 
-  * When in T&H mode and 1:1 a high sets the module in "Hold" state and a low sets the module in "Track" state.
+  * When in T&H mode and 1:1 a high clock input sets the module in "Hold" state and a low sets the module in "Track" state.
   * When in T&H mode the 1:2 the incomming clock pulse toggle between "Track" and "Hold".
 * A button for manual clock inputs.
 * A buffered out; Get a nice copy of the origial signal.
