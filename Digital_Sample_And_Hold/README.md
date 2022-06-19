@@ -20,7 +20,7 @@ A handy dandy Attiny84 based CV module with more features than parts. For the SD
 * A buffered THRU; Get a nice copy of the origial signal.
 * A Gate out; Get a gate signal set by the probability and the clock mode.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front_image.jpg" height="500"/>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front_image.jpg" width="600"/>
 
 ## How It Works
 The goal for me, appart from having the features the module comes with, was to experiment with the Attiny84 by designing a module for it. The Attiny84 is a powerfull little MCU, small and cheap. By adding an external 16MHz crystal it is as fast as an Arduino Nano, or even faster by using a 20MHz crystal. The formfactor is ideal for small SDIY projects. Especially if you don't need all those pins.
@@ -33,7 +33,7 @@ The image above shows you what happens. The module finds the incomming signal by
 
 For the search signal I used the same signal as for the actuall output, because the Attiny84 doesn't come with more pins, and why not using that nice 16-bit DAC that is already available? The downside of this is that the search algoritm can be hearable just a tiny bit when the output cv signal is used for a VCO. Nevertheless a few milliseconds are almost not noticable and with some experimentation this will be further optimized. Otherwise adding a tiny bit of glide will remove this tiny noise at the beginning, or just use the gate out from the module icm an envelope generator and VCA, since the gate signal is generated after the search signal and thus the tiny noise will be cancelled out.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" height="500"/>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" width="600"/>
 
 
 
@@ -43,7 +43,7 @@ For the search signal I used the same signal as for the actuall output, because 
 * When uploading the code set the Clock Division switch to 1:2 (downwards), else the programmer will be interfered.
 
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/programming.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/programming.jpg" width="600" />
 
 
 
