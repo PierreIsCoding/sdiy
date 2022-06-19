@@ -1,6 +1,6 @@
 # Digital Sample & Hold
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front.png" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front.png" width="600" />
 
 A handy dandy Attiny84 based CV module with more features than parts. For the SDIY enthusiast.
 
