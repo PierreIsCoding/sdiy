@@ -17,7 +17,7 @@ A handy dandy Attiny84 based CV module with more features than parts. For the SD
   * When in T&H mode and 1:1 a high clock input sets the module in "Hold" state and a low sets the module in "Track" state.
   * When in T&H mode the 1:2 the incomming clock pulse toggle between "Track" and "Hold".
 * A button for manual clock inputs.
-* A buffered out; Get a nice copy of the origial signal.
+* A buffered THRU; Get a nice copy of the origial signal.
 * A Gate out; Get a gate signal set by the probability and the clock mode.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/front_image.jpg" height="500"/>
