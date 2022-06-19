@@ -33,7 +33,7 @@ The image above shows you what happens. The module finds the incomming signal by
 
 For the search signal I used the same signal as for the actuall output, because the Attiny84 doesn't come with more pins, and why not using that nice 16-bit DAC that is already available? The downside of this is that the search algoritm can be hearable just a tiny bit when the output cv signal is used for a VCO. Nevertheless a few milliseconds are almost not noticable and with some experimentation this will be further optimized. Otherwise adding a tiny bit of glide will remove this tiny noise at the beginning, or just use the gate out from the module icm an envelope generator and VCA, since the gate signal is generated after the search signal and thus the tiny noise will be cancelled out.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" width="800"/>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" width="900"/>
 
 
 
