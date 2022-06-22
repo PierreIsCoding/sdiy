@@ -5,7 +5,7 @@
 A handy dandy Attiny84 based CV module with more features than parts. For the SDIY enthusiast.
 
 ## Features
-* Digital Sample & Hold; Sample bipolar CV sources without the "droop" of a traditional analog Sample & Hold. Ideal for longer back melodies.
+* Digital Sample & Hold; Sample bipolar CV sources without the "droop" of a traditional analog Sample & Hold. Ideal for slower backtrack melodies.
 * Track & Hold mode; When the module is in "tracking" state the output signal is exactly similar to the input until you "hold" it.
 * Glide knob; Create glide effects on the outgoing CV signal.
 * Quantization; Turn quantization on to create stepped output voltages quantized to 1/12 volts.
