@@ -14,6 +14,9 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [MS20 VCF](https://github.com/PierreIsCoding/sdiy/tree/main/MS_20_VCF_Clone) A perfboard design of the famous MS20 VCF.
 * [Ladder Filter](https://github.com/PierreIsCoding/sdiy/tree/main/Ladder_Filter) A perfboard design of the famous Transistor Ladder Filter.
 
+## VCA's
+* [VCA Ducker](https://github.com/PierreIsCoding/sdiy/tree/main/VCA_Ducker) Get the best out of your kickdrum.
+
 ## CV
 * [Arduino Arpeggiator](https://github.com/PierreIsCoding/sdiy/tree/main/Arpeggiator) An Arduino based arpeggiator.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
