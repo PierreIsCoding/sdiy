@@ -11,20 +11,31 @@ But wait.. why not use a standard VCA, envelope generator and some cv-inverter f
 ## Features
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/labels.png" width="200" />
 
-* The VCA Ducker has a few options to create and adjust control-voltages for the VCA (voltage controlled amplifier).
-  * Convert an audio signal into an 'envelope follower' or 'AD envelope'.
-    * An AD envelope (attack-decay) is not affected by the sustain of a signal as is with the envelope follower. This ideal if you like to create shorter envelopes.
-  * Alternatively convert an external gate signal into an AD envelope.
-  * Change the decay of the envelope signal.
-  * Use that envelope to increase (standard VCA operation) or decrease (Ducking operation) the main signal.
-    * For this an attenuverter is present that changes the incomming (envelope) cv.
-  * Alternatively use any external cv source to control the VCA.
-* Other 
-  * Mix the kickdrum together with the main signal with a dedicated knob.
-  * Toggle between 'kickdrum + main signal mix', 'solo kickdrum', or 'solo main signal'.
+* Convert an audio signal into an 'envelope follower' or 'AD envelope'.
+  * An AD envelope (attack-decay) is not affected by the sustain of a signal as is with the envelope follower. This ideal if you like to create shorter envelopes.
+* Alternatively convert an external gate signal into an AD envelope.
+* Change the decay of the envelope signal.
+* Use that envelope to increase (standard VCA operation) or decrease (Ducking operation) the main signal.
+  * For this an attenuverter is present that changes the incomming (envelope) cv.
+* Alternatively use any external cv source to control the VCA.
+* Mix the kickdrum together with the main signal with a dedicated knob.
+* Toggle between 'kickdrum + main signal mix', 'solo kickdrum', or 'solo main signal'.
 
 ## How it works
+The module basically has two main sections: An envelope generator and an VCA.
+
+### Section 1: Envelope Generator
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/rectifier.png" width="1200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/gate_convert.png" width="1200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/trigger.png" width="1200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/envelope_follower.png" width="1200" />
+
+### Section 2: VCA
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/attenuverter.png" width="1200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/VCA.png" width="1200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/spdt.png" width="1200" />
+
+
 
 ## Build Notes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/back_small.jpg" width="400" />
