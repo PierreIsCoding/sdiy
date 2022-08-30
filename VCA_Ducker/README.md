@@ -12,14 +12,13 @@ But wait.. why not use a standard VCA, envelope generator and some cv-inverter f
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/labels.png" width="200" />
 
 * Convert an audio signal into an 'envelope follower' or 'trigger envelope'.
-  * An AD envelope (attack-decay) is not affected by the sustain of a signal as is with the envelope follower. This ideal if you like to create shorter envelopes.
-* Alternatively convert an external gate signal into an AD envelope.
+  * An trigger envelope is not affected by the sustain of a signal as is with the envelope follower. This ideal if you like to create shorter envelopes.
+* Alternatively convert an external gate signal into a simple trigger envelope.
 * Change the decay of the envelope signal.
-* Use that envelope to increase (standard VCA operation) or decrease (Ducking operation) the main signal.
-  * For this an attenuverter is present that changes the incomming (envelope) cv.
+* Use that envelope to increase (standard VCA operation) or decrease (ducking operation) the main signal.
 * Alternatively use any external cv source to control the VCA.
 * Mix the kickdrum together with the main signal with a dedicated knob.
-* Toggle between 'kickdrum + main signal mix', 'solo kickdrum', or 'solo main signal'.
+* Toggle between kick only, mix of kick with audio signal, or audio signal only.
 
 ## How it works
 [please double click the images to see them in more delail, or alternatively open de schematic pdf]
@@ -30,15 +29,15 @@ A envelope follower continues to 'follow' the shape of the audio signal where a 
 
 ### Section 1: Half wave precision rectifier
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/rectifier.png" width="1200" />
-Here the kickdrum signal is converted into a fully possitive signal. This helps later stages to convert the kickdrum signal to a gate or to an envelope.
+Here the kickdrum signal is converted into a fully possitive signal. This helps later stages to convert the kickdrum signal into a(n) gate and/or envelope.
 
 ### Section 2: Signal to gate converter
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/gate_convert.png" width="1200" />
 
 With SW1 you decide how the signal from section 1 is further developed. As trigger envelope or as envelope follower.
-* When you set it to 'trigger' this section converts the signal into a clean gate first. This is done by actually an second envelope follower that is set by C1, RV3 and comparator U4A. 
+* When you set it to 'trigger' this section converts the signal into a clean gate first. This is done by actually a second envelope follower that is set by C1, RV3 and comparator U4A. 
   * Note that when an external gate is applied C1 and RV1 have no affect. 
-  * Also note that RV3 is a trimpotentiometer that you have to callibrate in order to get a clean gate at this stage. Set the decay of this calibration envelope follower too short and you will get multiple gates from one kick and thus multiple triggers on the end. Set it too long and the trigger wont get a falling edge on time before a the next kickpulse comes in.
+  * Also note that RV3 is a trimpotentiometer that you have to calibrate in order to get a clean gate at this stage. Set the decay of this calibration envelope follower too short and you will get multiple gates from one kick and thus multiple triggers on the end. Set it too long and the trigger wont get a falling edge on time before a the next kickpulse comes in.
 * When you set SW1 to 'envelope' the kickdrum signal will be converted to an envelope signal from which you can control its decay with RV6.
 
 ### Section 3: Gate to trigger converter [trigger path]
@@ -63,12 +62,10 @@ A transistor based VCA.
 ### Section 4: Mix / Mute
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/spdt.png" width="1200" />
 
-
-This section is based on a basic crossfader but instead of using a traditional potentiometer to pan between two signals a simple SPDT switch is used. This configuration allows you to have three different signal outputs depending on the position of the switch!
+This section is based on a basic crossfader but instead of using a traditional potentiometer to pan between two signals a SPDT switch is used. This configuration allows you to have three different signal outputs depending on the position of the switch!
 * UP: kick only.
 * CENTER: mix of kick with audio signal.
 * DOWN: audio signal only.
-
 
 ## Build Notes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/back_small.jpg" width="400" />
