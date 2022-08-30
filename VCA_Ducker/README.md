@@ -18,7 +18,6 @@ The VCA Ducker has a few options to create and adjust control-voltages for the V
 * Change the decay of the envelope signal.
 * Use that envelope to increase (standard VCA operation) or decrease (Ducking operation) the main signal.
   * For this an attenuverter is present that changes the incomming (envelope) cv.
-  * This means instead of using a kickdrum to control a signal you can also use a gate signal with the build in envelope generator to control any (audio) signal.
 * Alternatively use any external cv source to control the VCA.
 
 Other 
