@@ -52,6 +52,9 @@ Set either the decay of the trigger envelope or envelope follower.
 ### Section 2: Attentuverter
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/attenuverter.png" width="1200" />
 
+The incommig (envelope) CV can be scalled, inverted and biased. This is a delicate play between the bias knob and the attenuverter knob. 
+Link to simulation:  https://tinyurl.com/2nnkwsqm
+
 ### Section 4: VCA
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/VCA.png" width="1200" />
 
