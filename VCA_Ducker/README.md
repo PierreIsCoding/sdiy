@@ -22,12 +22,14 @@ But wait.. why not use a standard VCA, envelope generator and some cv-inverter f
 * Toggle between 'kickdrum + main signal mix', 'solo kickdrum', or 'solo main signal'.
 
 ## How it works
-
 [please double click the images to see them in more delail, or alternatively open de schematic pdf]
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/envelopes.png" width="1200" />
+
+A envelope follower continues to 'follow' the shape of the audio signal where a trigger is always spikey and short.
 
 ### Section 1: Half wave precision rectifier
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/rectifier.png" width="1200" />
-
 Here the kickdrum signal is converted into a fully possitive signal. This helps later stages to convert the kickdrum signal to a gate or to an envelope.
 
 ### Section 2: Signal to gate converter
@@ -45,17 +47,24 @@ With SW1 you decide how the signal from section 1 is further developed. As trigg
 ### Section 4: Decay
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/envelope_follower.png" width="1200" />
 
-Set either the decay of the tr
+Set either the decay of the trigger envelope or envelope follower.
 
 ### Section 2: Attentuverter
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/attenuverter.png" width="1200" />
 
-### Section 4: Envelope follower
+### Section 4: VCA
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/VCA.png" width="1200" />
 
-### Section 4: SPDT
+A transistor based VCA.
+
+### Section 4: Mix / Mute
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/spdt.png" width="1200" />
 
+
+This section is based on a basic crossfader but instead of using a traditional potentiometer to pan between two signals a simple SPDT switch is used. This configuration allows you to have three different signal outputs depending on the position of the switch!
+* UP: kick only.
+* CENTER: mix of kick with audio signal.
+* DOWN: audio signal only.
 
 
 ## Build Notes
