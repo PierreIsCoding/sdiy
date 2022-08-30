@@ -3,7 +3,7 @@
 
 This module helps you to push your kickdrum through a bussy mix with a technique called "ducking". Ideal for techno music where your kickdrum needs to get heard! 
 
-For this the module only requires you to insert your kickdrum and separately your main audiomix. The module converts then the kickdrum-audio into an envelope-cv, also called an "envelope-follower". That envelope pushes the volume of the main mix down exactly when you hear the kickdrum. With this technique the kickdrum simply gets all the space it requires whenever it is represented instead of getting overpowered by all the other (noisy) audio signals.
+The VCA Ducker only requires you to insert your kickdrum and separately your main audiomix. The module converts then the kickdrum-audio into an envelope-cv, also called an "envelope-follower". That envelope pushes the volume of the main mix down exactly when you hear the kickdrum. With this technique the kickdrum simply gets all the space it requires whenever it is represented instead of getting overpowered by all the other (noisy) audio signals.
 
 But wait.. why not use a standard VCA, envelope generator and some cv-inverter for this? Simply because this module makes it super easy for you. You only need a kickdrum and a main audiomix. Thus this is an all-in-one-module that serves you all the control you need to master your ducking-game. 
 
