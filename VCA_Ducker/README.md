@@ -22,17 +22,38 @@ But wait.. why not use a standard VCA, envelope generator and some cv-inverter f
 * Toggle between 'kickdrum + main signal mix', 'solo kickdrum', or 'solo main signal'.
 
 ## How it works
-The module basically has two main sections: An envelope generator and an VCA.
 
-### Section 1: Envelope Generator
+[please double click the images to see them in more delail, or alternatively open de schematic pdf]
+
+### Section 1: Half wave precision rectifier
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/rectifier.png" width="1200" />
+
+Here the kickdrum signal is converted into a fully possitive signal. This helps later stages to convert the kickdrumsignal to a gate or to an envelope.
+
+### Section 2: Signal to gate converter
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/gate_convert.png" width="1200" />
+
+With SW1 you decide how the signal from section 1 is further developed. As trigger or as envelope.
+* When you set it to 'trigger' this section converts the signal into a clean gate first. This is done by actually an second envelope follower that is set by C1, RV3 and comparator U4A. 
+  * Note that when an external gate is applied C1 and RV1 have no affect. 
+  * Also note that RV3 is a trimpotentiometer that you have to callibrate in order to get a clean gate at this stage. Set the decay of this calibration envelope follower too short and you will get multiple gates from one kick and thus multiple triggers on the end. Set it too long and the trigger wont get a falling edge on time before a the next kickpulse comes in.
+* When you set SW1 to 'envelope' the kickdrum signal will be converted to an enevlope signal from which you can control its decay with RV6
+
+### Section 3: Gate to trigger converter [trigger path]
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/trigger.png" width="1200" />
+
+When you 
+
+### Section 4: Envelope follower
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/envelope_follower.png" width="1200" />
 
-### Section 2: VCA
+### Section 2: Attentuverter
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/attenuverter.png" width="1200" />
+
+### Section 4: Envelope follower
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/VCA.png" width="1200" />
+
+### Section 4: SPDT
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/spdt.png" width="1200" />
 
 
