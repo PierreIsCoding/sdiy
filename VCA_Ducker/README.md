@@ -28,7 +28,9 @@ But wait.. why not use a standard VCA, envelope generator and some cv-inverter f
 An envelope follower continues to 'follow' the shape of the audio signal where a trigger is always spikey and short.
 
 ### Section 1: Half wave precision rectifier
+[Note the labels show connected traces from different boards. Thus for example: KICK_IN_F and KICK_IN_B are actually connected]
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/rectifier.png" width="1200" />
+
 Here the kickdrum signal is converted into a fully possitive signal. This helps later stages to convert the kickdrum signal into a(n) gate and/or envelope.
 
 ### Section 2: Signal to gate converter
