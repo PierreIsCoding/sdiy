@@ -17,12 +17,14 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 ## VCA's
 * [VCA Ducker](https://github.com/PierreIsCoding/sdiy/tree/main/VCA_Ducker) Get the best out of your kickdrum.
 
+## LFO's
+* [Dual LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
+
 ## CV
 * [Arduino Arpeggiator](https://github.com/PierreIsCoding/sdiy/tree/main/Arpeggiator) An Arduino based arpeggiator.
 * [Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Sample_And_Hold) A basic Sample And Hold.
 * [Digital Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Digital_Sample_And_Hold) A Digital Sample And Hold with lots of extras.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
-* [Dual LFO](https://github.com/PierreIsCoding/sdiy/tree/main/Dual_LFO) Two LFO's with buildin CV-mixer. 
 * [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerful quantizer.
 
 ## Gates
@@ -40,12 +42,11 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## Utilities
 * [Output V3](https://github.com/PierreIsCoding/sdiy/tree/main/Output) A perfboard design of Befaco's Output V3 module.
+* [Pump](https://github.com/PierreIsCoding/sdiy/tree/main/Pump) A simple gain pumping utility module.
 
 ## Tools
 * [Measure Man](https://github.com/PierreIsCoding/sdiy/tree/main/Measure_Man) A handy tool for checking and measuring synth related stuff.
 * [Attiny Programmer](https://github.com/PierreIsCoding/sdiy/tree/main/Attiny_Programmer) Programm and develop your Attiny 85 or 84 with this tool.
-
-
 
 ## Other
 * [3D Printing For Eurorack](https://github.com/PierreIsCoding/sdiy/tree/main/3DPrinting_For_Eurorack) A personal collection of models for your 3D printer.
