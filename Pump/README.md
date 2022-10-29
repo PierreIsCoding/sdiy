@@ -12,3 +12,6 @@ Some of the sdiy modules I have build are a but on the low volume side (especial
 I choose an opamp configuration that provides a lot of flexibility. You can adjust by changing the resistor values the minimal gain and the maximal gain. Have a look at the Falstad simulation and see how you want to change the values. 
 
 Alternatively you can use this module as a simple clipping distorion module.
+
+
+[Link to simulation](https://tinyurl.com/25b8f6m3)
