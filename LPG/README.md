@@ -1,7 +1,7 @@
 # DUAL Low Pass Gate with integrated "envelope"
 This vactrol based module converts any sound into a drum sound. It is a simple but very nice project to build.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_212035.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_212035.jpg" width="400" />
 
 ## Features
 - Inputs:
@@ -19,7 +19,7 @@ The gate signal is converted into a very fast trigger which open and closes the 
 - It has a nice slopy decay.
 - The wave in the beginning is still square-like but at the end it changes more and more to triangle-isch shapes. This is actually the filter effect from the LPG, and is the part why it sounds more "natural".
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210907_183115.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210907_183115.jpg" width="600" />
 
 
 
@@ -35,8 +35,8 @@ The gate signal is converted into a very fast trigger which open and closes the 
 
 ps. I will add some better looking labels on the front panel;)
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/front.jpg" height="400" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_211956.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/front.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/LPG/images/20210906_211956.jpg" width="600" />
 
 
 
