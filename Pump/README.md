@@ -15,7 +15,7 @@ I choose an opamp configuration that provides a lot of flexibility afterwards. Y
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/falstad.png" width="400" />
 
-Have a look at the Falstad simulation and see how you want to change the values. [Link to simulation](https://tinyurl.com/25b8f6m3)
+Have a look at the Falstad simulation and see how you want to change the values. [Link to simulation](https://tinyurl.com/28t7lkuj)
 
 
 
