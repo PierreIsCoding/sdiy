@@ -1,10 +1,10 @@
 # Attiny Programmer
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144253.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144253.jpg" width="600" />
 
 A programmer for the Attiny 84 and 85 with breadboard helpers.
 
 ## Features
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_145036.jpg" height="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_145036.jpg" width="600" />
 
 * Program the Attiny 84 or 85 with an Arduino Nano.
 * Indication leds for the programmer
@@ -47,9 +47,9 @@ void loop() {
 ```
 
 ## Buildnotes
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144756.jpg" height="300" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144345.jpg" height="300" />
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144227.jpg" height="300" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144756.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144345.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Attiny_Programmer/images/20220211_144227.jpg" width="400" />
 
 
 
