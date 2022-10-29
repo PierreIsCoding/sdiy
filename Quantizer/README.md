@@ -1,6 +1,6 @@
 # Quantizer
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/labels.jpg" height="500" /><img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_134829.jpg" height="500" />     
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/labels.jpg" width="400" /><img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_134829.jpg" width="300" />     
 
 Another Quantizer? Yes! This project represents a powerfull, precize and flexible quantizer with not so many components and only 6HP wide. It lets you quantize cv-levels with a 16-bit pwm based DAC using only two pins and the internal timers of an Arduino Nano. Musically it really can change your game. So why not build this one for yourself?
 
@@ -84,7 +84,7 @@ Uploading code to your arduino can be tricky since doing it wrong can potentiall
 - Take extra notice of the orientation of the leds. Please consult the iBom or f-silkscreen pdf. If one is off multiple leds will turn on unwantedly.
 - Solder the leds before solder the female header pins for the Arduino.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" height="500" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135308.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135047.jpg" width="400" /> <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Quantizer/images/20220312_135308.jpg" width="400" />
 
 
 ## Bypass caps
