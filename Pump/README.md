@@ -6,7 +6,7 @@
 Some of the sdiy modules I have build are a but on the low volume side (especially from old designs from the internet). That can be annoying when you want to mix them with other much hotter signals. Until this module I would just mix those low volume ones at max and the hotter ones at almost zero. With this you lose unfortunatly a lot of control and some of the crispiness that the hot modules can provide. Therefore I designed this simple utility module. With this you can match up those low volume outliers and regain control over your mix. Alternatively you can use this module as a simple clipping distortion module.
 
 ## Features
-* Get a gain amplification between 2x and 4x.
+* Get a gain amplification between 2x and 7x.
 * Simple clipping indicators.
 * Two channels.
 
