@@ -1,7 +1,9 @@
-# Pump. A Gain pumping utility module.
+# Pump. A Gain Pumping Utility Module.
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/front.jpg" width="400" />
 
 ## Motivation
-Some of the sdiy modules I have build are a but on the low volume side (especially from old designs from the internet). That can be annoying when you want to mix them with other much hotter signals. Until this module I would just mix those low volume ones at max and the hotter ones at almost zero. With this you lose unfortunatly a lot of control and some of the crispiness that the hot modules can provide. Therefore I designed this simple utility module. With this you can match up those low volume outlier modules and regain controlover your mix. 
+Some of the sdiy modules I have build are a but on the low volume side (especially from old designs from the internet). That can be annoying when you want to mix them with other much hotter signals. Until this module I would just mix those low volume ones at max and the hotter ones at almost zero. With this you lose unfortunatly a lot of control and some of the crispiness that the hot modules can provide. Therefore I designed this simple utility module. With this you can match up those low volume outliers and regain control over your mix. Alternatively you can use this module as a simple clipping distorion module.
 
 ## Features
 * Get a gain amplification between 2x and 4x.
@@ -9,9 +11,21 @@ Some of the sdiy modules I have build are a but on the low volume side (especial
 * Two channels.
 
 ## Adjust
-I choose an opamp configuration that provides a lot of flexibility. You can adjust by changing the resistor values the minimal gain and the maximal gain. Have a look at the Falstad simulation and see how you want to change the values. 
+I choose an opamp configuration that provides a lot of flexibility afterwards. You can adjust, by changing the resistor values, the minimal gain and the maximal gain. 
 
-Alternatively you can use this module as a simple clipping distorion module.
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/falstad.png" width="400" />
+
+Have a look at the Falstad simulation and see how you want to change the values. [Link to simulation](https://tinyurl.com/25b8f6m3)
 
 
-[Link to simulation](https://tinyurl.com/25b8f6m3)
+
+
+
+## Buildnotes
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/PCB.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/front_pcb.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/detail_1.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Pump/images/detail_2.jpg" width="400" />
+
+
