@@ -32,6 +32,9 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Probability Gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) An analog probability generator.
 * [Trigger Sequencer](https://github.com/PierreIsCoding/sdiy/tree/main/Trigger_Sequencer) A Teensy based trigger sequencer.
 
+## Envelopes
+* [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/Spark) An analog burst generator.
+
 ## Drum sounds
 * [Low Pass Gate](https://github.com/PierreIsCoding/sdiy/tree/main/LPG) A simple vactrol based Low Pass Gate with integrated envelope.
 * [Pocket operator](https://github.com/PierreIsCoding/sdiy/tree/main/Hacked_Operator) A manual for hacking a pocket operator for your modular synth.
