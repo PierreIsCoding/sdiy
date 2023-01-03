@@ -28,8 +28,8 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerful quantizer.
 
 ## Gates
+* [Chit Chat](https://github.com/PierreIsCoding/sdiy/tree/main/Chit_Chat) An analog probability gate.
 * [Master Clock](https://github.com/PierreIsCoding/sdiy/tree/main/MasterClock) An Arduino based master clock project.
-* [Probability Gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) An analog probability generator.
 * [Trigger Sequencer](https://github.com/PierreIsCoding/sdiy/tree/main/Trigger_Sequencer) A Teensy based trigger sequencer.
 
 ## Envelopes
