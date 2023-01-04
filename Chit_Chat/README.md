@@ -21,18 +21,22 @@ When Chit Chat receives a clock input it randomly translates this either to gate
 <br>
 
 * If you set the probability knobs at the center, thus at 50%, both gate outputs have an equal chance to "copy" the incomming clock signal to the output.
-* If you set the probability knobs fully to the left gate output 1 as a 100% chance and gate output 2 0% chance, and vice versa.
+* If you set the probability knobs fully to the left gate output 1 as a 100% chance and gate output 2 a 0% chance, and vice versa.
 * Any other position will favour one over the other but won't exclude neither of them.
 
 ## Gate Inputs
-* A great start to use Chit Chat is to insert a steady clock in the inout gate and the probility at 50%. However you can also use more rythmic gate inputs or clocks at audio rates.
-* Also keep in mind that gate input B is normalized to gate output A1. Thus if gate output A1 fires one of the gate outputs of channel B will fire as well. Inserting a cable into gate input B will override that normalization.
+* A great start to use Chit Chat is to insert a steady clock in the input gate and the probility at 50%. However you can also use more rythmic gate inputs or clocks at audio rates. Please experiment.
+* Also know that gate input B is normalized to gate output A1. Thus if gate output A1 fires one of the gate outputs of channel B will fire as well. Inserting a cable into gate input B will override that normalization.
+
+## CV Control
+Chit Chat allows you to control the probability via CV, unipolar or bipolar. The probability knob biases how Chit Chat receives this CV.
+
+* Probability knob center: CV: -2.5V to 2.5V
+* Probability knob fully CW: CV: 0V tot 5V
+* Probability knob fully CCW: CV: -5V tot 0V
 
 
-## CV Setting
-Chit Chat allows to set the probability with CV
-
-
+# Build Notes
 
 
 
