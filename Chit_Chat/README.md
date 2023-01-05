@@ -1,4 +1,4 @@
-# Chit Chat - An Analog Probability Gate
+# Chit Chat - An Analog Probability Generator
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/Chit_Chat_Front_Panel.png" width="110" />
 
