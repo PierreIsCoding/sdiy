@@ -6,8 +6,8 @@ Spark creates gates, envelopes, fade-ins, fade-outs and more. The module gives y
 # Manual
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/numbers.png" width="300" />
 
-1. Duration (bias) knob
-2. Burst LED's
+1. Duration (bias) knob.
+2. Burst LED's.
 3. Slope knob.
 4. Trigger Mode.
 5. Duration CV input with attenuator.
@@ -28,7 +28,7 @@ To start a burst you need to trigger it. For this you have three options:
 - Push the manual trigger button (13).
 - Toggle the trigger mode to loop (4).
 
-For basic operation and for learning the module first set the trigger mode switch to "retrig".
+For basic operation and for learning the module first set the trigger mode switch to "RETRIG".
 
 <br>
 
@@ -38,7 +38,7 @@ When Spark receives an input trigger a number of things are set in motion:
 - First and foremost Spark sends out a basic burst of gates (9). These gates can be used to trigger other modules like kicks, snares, hats, envelope generators etc. 
 - On the same time Spark outputs a simple envelope on the slope output (7). This envelope internally determines the duration of the burst. When the slope is at its end the burst gates stop to be produced.
 - This slope / envelope can have either a "fade-in" or fade-out" shape. This determinded by the slope knob (3).
-- Also on the same time Spark combines this slope with the burst gates to produce "fading" envelopes at the "burst envelope output" (10). 
+- Also on the same time Spark combines this slope with the burst gates to produce "fading-on or -out" envelopes at the "burst envelope output" (10).
 - The individual decay's of the burst envelopes are set by the envelope knob (14). See image above how this all looks like.
 
 ## Duration
@@ -67,9 +67,9 @@ A little bit more about the slope control:
 
 ## Trigger Mode
 You can set the trigger mode to three positions:
-- Single
-- Retrigger (standard mode)
-- Loop
+- Single.
+- Retrigger (standard mode).
+- Loop.
 
 If you set the switch to it's center position any new input trigger will reset the burst, slope and fading to their start position immediately. Also when Spark is already deploying a burst. When you only want to get a new burst when the current one is completely finished set the trigger mode to "single". This can be handy when you want a long burst generation but your input triggers are fast.
 
@@ -83,10 +83,6 @@ Insert an external clock (11) to control the burst envelopes output(10). It does
 
 
 
-
-
-
-
-
-
 # Build Notes
+
+
