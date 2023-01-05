@@ -6,6 +6,8 @@ With Chit Chat you can create awesome lifelike rhythms with ease by simply setti
 When Chit Chat receives a clock input it randomly translates this either to gate 1 or 2, as a coin toss. Depending on the probability setting between 0-100% it will go more likely to one of the two gates. This is not only a simple but powerfull module, but the tech behind it consists completely of analog and discrete electronics. No software is involved !
 
 # Manual
+Chit Chat has two channels to work with: Channel A on the left side and channel B on the right side.
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/Chit_Chat_Numbers.png" width="150" />
 
 1. Probability knobs.
@@ -13,8 +15,6 @@ When Chit Chat receives a clock input it randomly translates this either to gate
 3. Gate / clock inputs.
 4. Gate outputs (A1 and B1).
 4. Gate outputs (A2 and B2).
-
-- Chit Chat has two channels to work with: A and B.
 
 ## Probability Knobs
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/Explainations.png" width="600" />
