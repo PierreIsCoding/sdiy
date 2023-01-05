@@ -21,7 +21,7 @@ When Chit Chat receives a clock input it randomly translates this either to gate
 <br>
 
 * If you set the probability knobs at the center, thus at 50%, both gate outputs have an equal chance to "copy" the incomming clock signal to the output.
-* If you set the probability knobs fully to the left gate output 1 as a 100% chance and gate output 2 a 0% chance, and vice versa.
+* If you set the probability knobs fully to the left (ccw), gate output 1 as a 100% chance and gate output 2 a 0% chance, and vice versa.
 * Any other position will favour one over the other but won't exclude neither of them.
 
 ## Gate Inputs
