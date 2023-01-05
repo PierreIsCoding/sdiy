@@ -10,14 +10,16 @@ Spark can creates gates, envelopes, fade ins, fade outs and more. The module giv
 2. Burst LED's
 3. Slope knob.
 4. Trigger behaviour switch.
-5. Duration CV attanuator.
-6. Duration CV input.
-7. Trigger / Gate input.
-8. Slope output.
-9. EOC output (End Of Cycle).
-10. Gate burst output.
-11. Envelope burst output.
-12. Externa clock input.
-13. Rate CV input.
+5. Duration CV input with attenuator.
+6. Trigger / Gate input.
+7. Slope output.
+8. EOC output (End Of Cycle).
+9. Burst gates output.
+10. Burst envelopes output.
+11. External clock input.
+12. Rate CV input with attenuator.
+13. Manual trigger button.
+14. Envelope knob.
+15. Rate knob.
 
 # Build Notes
