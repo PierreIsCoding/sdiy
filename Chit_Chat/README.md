@@ -21,7 +21,7 @@ When Chit Chat receives a clock input it randomly translates this either to gate
 <br>
 
 * If you set the probability knobs at the center, thus at 50%, both gate outputs have an equal chance to "copy" the incomming clock signal to the output.
-* If you set the probability knobs fully to the left (ccw), gate output 1 as a 100% chance and gate output 2 a 0% chance, and vice versa.
+* If you set the probability knobs fully to the left (CCW), gate output 1 as a 100% chance and gate output 2 a 0% chance, and vice versa.
 * Any other position will favour one over the other but won't exclude neither of them.
 
 ## Gate Inputs
@@ -32,12 +32,12 @@ When Chit Chat receives a clock input it randomly translates this either to gate
 Chit Chat allows you to control the probability via CV, unipolar or bipolar. The probability knob biases how Chit Chat receives this CV.
 
 * Probability knob center: CV: -2.5V to 2.5V
-* Probability knob fully CW: CV: 0V tot 5V
-* Probability knob fully CCW: CV: -5V tot 0V
+* Probability knob fully CW: CV: 0V to 5V
+* Probability knob fully CCW: CV: -5V to 0V
 
 
 # Build Notes
-
+Added soon.
 
 
 [Old version](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate)
