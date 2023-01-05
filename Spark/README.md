@@ -9,7 +9,7 @@ Spark can creates gates, envelopes, fade ins, fade outs and more. The module giv
 1. Duration (bias) knob
 2. Burst LED's
 3. Slope knob.
-4. Trigger Mode switch.
+4. Trigger Mode.
 5. Duration CV input with attenuator.
 6. Trigger / Gate input.
 7. Slope output.
@@ -44,7 +44,9 @@ When Spark receives an input trigger a number of things are set in motion:
 ## Duration
 The Duration of the burst is controlled by the duration knob, the duration CV and its associated attenuator. By changing this you also directly change the duration of the slope output. You can use this output as a CV-controllable decay generator to control external VCA's etc.
 
-Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the CV input and the module will store that CV value at the moment of receiving a trigger input to set and keep the duration of the burst. A new trigger is required to reset the duration to a new value. 
+Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the CV input and the module will store that CV value at the moment of receiving a trigger input to set and keep the duration of the burst. A new trigger is required to reset the duration to a new value.
+
+Tip: it can happen that the duration becomes super looooong when the duration knob is set to its max and a high CV input was applied. To overcome this make sure the trigger mode is set to single, lower the duration values and press the manual button to reset the Sample & Hold. 
 
 ## Rate
 The rate of the internal clock is controlled by the rate knob, the rate CV and its associated attenuator. Please be aware that the input CV is normalized with the slope output. This means that opening the associated attenuator allows to slope to effect the internal clock. When the slope shape is set to fade-in the rate will speed up during a burst and when the slope is set to fade-out the speed will slow down during a burst.
@@ -62,6 +64,22 @@ A little bit more about the slope control:
   - All burst envelopes will have their maximum travel.
   - The slope output is a straight line at its max value.
 - See for yourself what happens in between.
+
+## Trigger Mode
+You can set the trigger mode to three positions:
+- Single
+- Retrigger (standard mode)
+- Loop
+
+If you set the switch to it's center position any new input trigger will reset the burst, slope and fading to their start position immediately. Also when Spark is already deploying a burst. When you only want to get a new burst when the current one is completely finished set the trigger mode to "single". This can be handy when you want a long burst generation but your input triggers are fast.
+
+For looping....just set it to looping. Input triggers don't realy work for this mode.
+
+## EOC
+The EOC / End Of Cycle is on when their is no burst going on. You can use this for a gate delay for instance with the duration to control the timing.
+
+## External Clock
+Use an external clock to control the burst envelopes output(10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
 
 
 
