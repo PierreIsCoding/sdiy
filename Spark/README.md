@@ -1,7 +1,7 @@
 # Spark - An Analog Burst Generator
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Spark_Front_Panel.png" width="180" />
 
-Spark can creates gates, envelopes, fade ins, fade outs and more. The module gives you analog control to create lively and complex rhythmic effects.
+Spark creates gates, envelopes, fade-ins, fade-outs and more. The module gives you analog control to create lively and complex rhythmic effects.
 
 # Manual
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/numbers.png" width="300" />
@@ -76,10 +76,10 @@ If you set the switch to it's center position any new input trigger will reset t
 For looping....just set it to looping. Input triggers don't realy work for this mode.
 
 ## EOC
-The EOC / End Of Cycle is on when their is no burst going on. You can use this for a gate delay for instance with the duration to control the timing.
+The EOC / End Of Cycle (8) is on when their is no burst going on. You can use this for a gate delay for instance with the duration to control the timing.
 
 ## External Clock
-Use an external clock to control the burst envelopes output(10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
+Insert an external clock (11) to control the burst envelopes output(10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
 
 
 
