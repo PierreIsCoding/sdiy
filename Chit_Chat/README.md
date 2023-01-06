@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/Chit_Chat_Front_Panel.png" width="110" />
 
-With Chit Chat you can create awesome lifelike rhythms with ease by simply setting the probability between one of the two output gates.
+With Chit Chat you can create a lifelike and rhytmic conversation with ease by simply setting the probability between one of the two output gates.
 When Chit Chat receives a clock input it randomly translates this either to gate 1 or 2, as a coin toss. Depending on the probability setting between 0-100% it will go more likely to one of the two gates. This is not only a simple but powerfull module, but the tech behind it consists completely of analog and discrete electronics. No software is involved !
 
 # Manual
