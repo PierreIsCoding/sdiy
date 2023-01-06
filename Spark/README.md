@@ -90,7 +90,7 @@ With the envelope knob you can set the envelope of each individual gate burst...
 The EOC / End Of Cycle (8) is on when there is no burst generation going on. You can use this for a gate delay with the duration to control the timing, for instance.
 
 ## External Clock
-Insert an external clock (11) to control the burst envelopes output(10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
+Insert an external clock (11) to control the burst envelopes output (10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
 
 # Build Notes
 
