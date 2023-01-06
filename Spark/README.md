@@ -75,9 +75,9 @@ You can set the trigger mode to three positions:
 - Retrigger (standard mode).
 - Loop.
 
-If you set the switch to it's center position any new input trigger will reset the burst, slope and fading to their start position immediately, even if Spark is already deploying a burst. If you only want to receive a new burst when the current one is completely finished, then set the trigger mode to "single". This can be handy when you want a long burst generation but your input triggers are fast.
+If you set the switch to it's center position any new input trigger will reset the burst, slope and fading to their start position immediately, even if Spark is already deploying a burst. If you only want to receive a new burst when the current one is completely finished, then set the trigger mode to "single". This can be handy when you want a long burst generation but your input triggers are fast. For looping....just set it to looping. Input triggers don't realy work for this mode. It's fun to play with the duration and rate though.
 
-For looping....just set it to looping. Input triggers don't realy work for this mode. It's fun to play with the duration and rate though.
+Tip: Due to the nature of the analog circuitry it might happen that the looping stops when you keep pressing the manual button etc during a loop. If that happens just toggle momentarily between retrig and loop mode.
 
 ## Envelope
 <br>
@@ -87,7 +87,10 @@ For looping....just set it to looping. Input triggers don't realy work for this 
 With the envelope knob you can set the envelope of each individual gate burst....sparks ;) Turn it counter-clock-wise to get a more sparky output and turn it clock-wise to have longer envelopes. If the burst rate is fast you probably want to have more narrow envelopes here, else you wont notice the individual envelopes at the burst envelope output. Also the relationship between these envelopes and the fade-in or fade-out of the slope is interesting.
 
 ## EOC
-The EOC / End Of Cycle (8) is on when there is no burst generation going on. You can use this for a gate delay with the duration to control the timing, for instance.
+The EOC / End Of Cycle (8) is on when there is no burst generation going on. 
+
+- You can use this for a gate delay with the duration to control the timing, for instance.
+- Set the trigger mode to retrig and connect the EOC output with the trigger input via a cable. Now it loops! This is actually how the looping works behind the scenes. With this setup can add additional modules to turn the looping on or off ;)
 
 ## External Clock
 Insert an external clock (11) to control the burst envelopes output (10). It doesn't affect the burst gates output (9). That will still be set by the internal clock.
