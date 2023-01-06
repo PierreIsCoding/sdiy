@@ -97,4 +97,41 @@ Insert an external clock (11) to control the burst envelopes output (10). It doe
 
 # Build Notes
 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/front.jpg" width="800" />
+
+## Files
+The files for building and sourcing this project are in this folder. See
+- Spark_Schematic.pdf; as reference.
+- Spark_Part_List.xlsx; for sourcing your parts.
+- ibom.html; download is file and open it with your browser. It is ideal for placing the components.
+
+## Calibrating the rate knob.
+- On the front panel between the duration knob and envelope knob you see a little hole. Behind it sets trimpot RV6.
+- Turn on the device.
+- Turn the duration knob fully clock-wise.
+- Turn the rate knob fully counter-clock-wise.
+- Set the module in loop mode.
+- Make sure the rate cv attenuator is fully counter-clock-wise.
+- Connect the burst gate output to a module that requires a gate or trigger to start, like a drum module and listen to it.
+- Insert a 2mm screw-driver in the little hole mentioned above.
+- Turn the trimpot fully counter-clock-wise. 
+- Now slowly turn it clock-wise until the gate output is firing.
+- This sets the minimum clock speed of the internal clock for the rate knob.
+- Set it to your own tasting.
+- You can always get slower clock speeds by using a negative rate CV.
+- At a certain level the internal clock completely stops. This can be a desired effect.
+
+## Calibrating the fade-in offset.
+- On the back side you find trimpot RV3.
+- Set the trimpot in the center. This would probably be good enough.
+- Opionally use an oscilloscope and compare the shapes of a fully fade-in and fade-out slope.
+- If the starting point of the fade-in is not equal to the end point of the fase-out then adjust the trimmer.
+- I might remove this calibration option for next version. Let me know. 
+
+
+Good luck !
+Luther / L.Geerinckx
+
+
+
 
