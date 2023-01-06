@@ -37,7 +37,7 @@ For basic operation and for learning the module first set the trigger mode switc
 When Spark receives an input trigger a number of things are set in motion:
 - First and foremost Spark sends out a basic burst of gates (9). These gates can be used to trigger other modules like kicks, snares, hats, envelope generators etc. 
 - On the same time Spark outputs a simple envelope on the slope output (7). This slope / envelope internally determines the duration of the burst. When that envelope is at its end the burst gates stop to be produced.
-- This slope / envelope can have either a "fade-in" or fade-out" shape. This determinded by the slope knob (3).
+- This slope / envelope can have either a "fade-in" or fade-out" shape. This determinded by the slope knob (3). See section below about this in more detail.
 - Also on the same time Spark combines this slope with the burst gates to produce "fading-on or -out" burst envelopes at the "burst envelope output" (10).
 - The individual decay's of the burst envelopes are set by the envelope knob (14). See image above how this all looks like.
 
@@ -56,7 +56,7 @@ Tip: if you don't want the slope to mess up with the rate speed make sure the at
 ## Slope Control
 
 <br>
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Explainations_2_Spark.png" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Explainations_2_Spark.png" width="500" />
 <br>
 
 A little bit more about the slope control:
@@ -66,6 +66,8 @@ A little bit more about the slope control:
   - All burst envelopes will have their maximum travel.
   - The slope output is a straight line at its max value.
 - See for yourself what happens in between.
+
+Also notice that the fade-in looks actually a bit funny. Technically it's an inversed version of the fade-out with an offset. This gives the fade-in an high output outside the burst generation. You won't notice this for the burst envelopes, but if you use the slope output seperately you have to consider this.
 
 ## Trigger Mode
 You can set the trigger mode to three positions:
@@ -78,6 +80,10 @@ If you set the switch to it's center position any new input trigger will reset t
 For looping....just set it to looping. Input triggers don't realy work for this mode. It's fun to play with the duration and rate though.
 
 ## Envelope
+<br>
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Envelope.png" width="300" />
+<br>
+
 With the envelope knob you can set the envelope of each individual gate burst....sparks ;) Turn it counter-clock-wise to get a more sparky output and turn it clock-wise to have longer envelopes. If the burst rate is fast you probably want to have more narrow envelopes here, else you wont notice the individual envelopes at the burst envelope output. Also the relationship between these envelopes and the fade-in or fade-out of the slope is interesting.
 
 ## EOC
