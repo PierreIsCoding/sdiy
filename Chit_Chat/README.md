@@ -29,15 +29,27 @@ Chit Chat has two channels to work with: Channel A on the left side and channel 
 * Also know that gate input B is normalized to gate output A1. Thus if gate output A1 fires one of the gate outputs of channel B will fire as well. Inserting a cable into gate input B will override that normalization.
 
 ## CV Control
-Chit Chat allows you to control the probability via CV, unipolar or bipolar. The probability knob biases how Chit Chat receives this CV.
+Chit Chat allows you to control the probability via CV, unipolar or bipolar. The probability knob biases how Chit Chat receives this CV. Please mind these values might differ a bit. It's not an exact science.
 
 * Probability knob center: CV: -2.5V to 2.5V
 * Probability knob fully CW: CV: 0V to 5V
 * Probability knob fully CCW: CV: -5V to 0V
 
-
 # Build Notes
-Added soon.
+
+
+## Calibration.
+The front panel has a little hole next to the top probability knob. With this you calibrate the noise gain / probability. How to calibrate:
+- Insert a fast clock / VCO at audio rate (you can use a square, sine, saw etc wave) into the gate in of the left channel.
+- Turn the top probability knob fully counter-clock-wise.
+- Turn the calibration trimpot fully clock-wise.
+- You can use a 2mm screw-driver for this. If you only have larger ones, you need to unscrew the front panel to reach the trimpot...sorry ;)
+- Then connect the first gate output to your audio out.
+- Now you should hear that same clock, but in square waves.
+- Turn the top probability knob fully clock-wise. While you do this you hear the clock falling appart.
+- If you hear still little bits of that fast clock you need to turn the calibration slowly counter-clock-wise, until you hear no pulses any more.
+- If you now turn your probability knob a little bit counter-clock-wise you should hear the first pulses of the clock coming back again.
+- Done !
 
 
 [Old version](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate)
