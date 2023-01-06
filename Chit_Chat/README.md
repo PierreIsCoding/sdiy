@@ -37,6 +37,8 @@ Chit Chat allows you to control the probability via CV, unipolar or bipolar. The
 
 # Build Notes
 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/front.jpg" width="400" />   <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/parts.jpg" width="150" />
+
 
 ## Calibration.
 The front panel has a little hole next to the top probability knob. With this you calibrate the noise gain / probability. How to calibrate:
