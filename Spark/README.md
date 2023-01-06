@@ -78,7 +78,7 @@ If you set the switch to it's center position any new input trigger will reset t
 For looping....just set it to looping. Input triggers don't realy work for this mode. It's fun to play with the duration and rate though.
 
 ## Envelope
-With the envelope knob you can set the envelope of each individual gate burst....sparks ;) Turn it counter-clock-wise to get a more sparky output and turn it clock-wise to have longer envelopes. If the burst rate is fast you probably want to have more narrow envelopes here, else you wont notice the individual envelopes at the burst envelope output.
+With the envelope knob you can set the envelope of each individual gate burst....sparks ;) Turn it counter-clock-wise to get a more sparky output and turn it clock-wise to have longer envelopes. If the burst rate is fast you probably want to have more narrow envelopes here, else you wont notice the individual envelopes at the burst envelope output. Also the relationship between these envelopes and the fade-in or fade-out of the slope is interesting.
 
 ## EOC
 The EOC / End Of Cycle (8) is on when there is no burst generation going on. You can use this for a gate delay with the duration to control the timing, for instance.
