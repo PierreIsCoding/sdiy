@@ -39,6 +39,11 @@ Chit Chat allows you to control the probability via CV, unipolar or bipolar. The
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/front.jpg" width="400" />   <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Chit_Chat/images/parts.jpg" width="150" />
 
+## Files
+The files for building and sourcing this project are in this folder. See
+- Chit_Chat_Schematic.pdf; as reference
+- Probability_Gate_2022_BOM.xlsx; for sourcing your parts
+- ibom.html; download is file and open it with your browser. It is ideal for placing the components.
 
 ## Calibration.
 The front panel has a little hole next to the top probability knob. With this you calibrate the noise gain / probability. How to calibrate:
