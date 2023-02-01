@@ -99,7 +99,10 @@ Insert an external clock (11) to control the burst envelopes output (10). It doe
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/front.jpg" width="800" />
 
-ps, I soldered R1 on the backside for testing purposes.
+ps, I soldered R1 on the backside only for testing purposes, so you don'tneed to.
+
+## Bugs
+- Keep notice that in pcb "Version 1" the silkscreen of R21 en R17 are swapped.
 
 ## Files
 The files for building and sourcing this project are in this folder. See
