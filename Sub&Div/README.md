@@ -42,8 +42,10 @@ The main trick of this module is CV! I don't know other modules like this with C
 * Attenuate this CV signal (3).
 * Bias this CV signal with the DIV knob (2).
 
-Tip: use other clock signals into the CV input and attenuate those to your desired range.
-Tip: use cv at audio rate to create cool effects.
+## Tips
+
+* Use other clock signals into the CV input and attenuate those to your desired range.
+* Use cv at audio rate to create cool effects.
 
 That's all! Have fun.
 
