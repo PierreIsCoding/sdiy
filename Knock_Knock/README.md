@@ -58,6 +58,14 @@ To change and edit the active channel please press the rotary encoder (8). Yes, 
 
 That's all. Have fun!
 
+# Build Notes
+
+## Files
+
+## Led bar
+
+## Programming the Attiny84
+
 
 
 
