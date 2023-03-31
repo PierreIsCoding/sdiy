@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/explain.png" width="250" />
 
-SUB & DIV is a 6HP wide sub octave generator and clock divider with CV.
+SUB & DIV is a 4HP wide sub octave generator and clock divider with CV.
 
 ## Manual
 1. Sub oscillator mix knob.
