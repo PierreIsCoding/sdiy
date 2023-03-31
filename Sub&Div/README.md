@@ -45,7 +45,9 @@ The main trick of this module is CV! I don't know other modules like this with C
 ## Tips
 
 * Use other clock signals into the CV input and attenuate those to your desired range.
-* Use cv at audio rate to create cool effects.
+* Use cv at audio rate to create cool effects. (at the right speed you can listen to mutliple octaves ate the same time)
+* Insert an signals into the CV input to just visualize their wave form.
+* Set the sub oscillator mix knob (1) fully counter clock wise and connect the mix output (7) with the CV input (5). You will get new and interesting rhythms !
 
 That's all! Have fun.
 
