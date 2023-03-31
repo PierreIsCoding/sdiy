@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/Front.png" width="110" />
 
-Knock Knock is a simple to use, 6HP wide, but powerfull 5 channel euclidian rhythm generator for creating interesting patterns on the fly.
+Knock Knock is a simple to use, only 6HP wide, and powerfull 5 channel euclidian rhythm generator for creating interesting patterns on the fly.
 
 # Manual
 
@@ -21,7 +21,7 @@ Knock Knock is a simple to use, 6HP wide, but powerfull 5 channel euclidian rhyt
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/explain_2.png" width="300" /> 
 
 10. 1-PPQ.
-11. Clock speed.
+11. Main clock speed in BPM (Beats per minute).
 12. 24-PPQ
 13. Channel or step number.
 
@@ -37,9 +37,9 @@ To change the pattern of your active channel do the following:
 While pressing any of these buttons you see the current state of that parameter visualised in the LED bar.
 
 ## Clock
-Knock Knock detects if you have inserted a cable into the clock input jack. Depending on if you have inserted a cable or not the module reacts slightly different:
-* Pressing the clock button (5) with NO cable lets you to set you the speed of the module by rotating encoder (8). Also have a look at clock speed labels (11).
-* Pressing the clock button (5) with A cable lets you to set you the PPQ (Pulses Per Quarter) of the module by rotating encoder (8). This is usefull if you have something that generates clock pulses with a 24PPQ like MIDI does.
+Knock Knock detects if you have inserted a cable into the clock input jack (6). Depending on if you have inserted a cable or not the module reacts slightly differently:
+* Pressing the clock button (5) with NO cable inserted lets you set the speed of the module by rotating the encoder (8). Also have a look at clock speed labels (11).
+* Pressing the clock button (5) with A cable inserted lets you set you the PPQ (Pulses Per Quarter) of the module by rotating the encoder (8). This is usefull if you have something that generates clock pulses with a 24PPQ like MIDI does.
 * All other settings work the same in each mode.
 
 Keep in mind that the internal clock of Knock Knock is not highly accurate BPM wise (Beats Per Minute). If you want an accurate BPM use an external clocks instead.
@@ -54,7 +54,7 @@ Tip for synchronisation:
 * Start your external clock again.
 
 ## Change The Active Channel
-To change and edit the active channel please press the rotary encoder (8). Yes, the encoder can be used as a button as well ! While pressing the encoder (and without rotating it) press one of the small buttons (1-5) to change the active channel. 
+To view and edit a different active channel please press first the rotary encoder (8). Yes, the encoder can be used as a button as well ! While pressing the encoder (and without rotating it) press secondly one of the small buttons (1-5) to change the active channel. 
 
 That's all. Have fun!
 
