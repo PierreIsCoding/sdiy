@@ -53,8 +53,10 @@ Tip for synchronisation:
 * Reset Knock Knock and your other gear, so all the clocks are in their starting position.
 * Start your external clock again.
 
-## Change the active channel
-To change the active channel and in order to edit that one please press first the rotary encoder (8). Yes, the encoder can be used as a button as well ! While pressing the encoder press one of the small buttons (1-5).
+## Change The Active Channel
+To change and edit the active channel please press the rotary encoder (8). Yes, the encoder can be used as a button as well ! While pressing the encoder (and without rotating it) press one of the small buttons (1-5) to change the active channel. 
+
+That's all. Have fun!
 
 
 
