@@ -23,6 +23,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 ## Gates
 * [Chit Chat](https://github.com/PierreIsCoding/sdiy/tree/main/Chit_Chat) An analog probability gate.
 * [Knock Knock](https://github.com/PierreIsCoding/sdiy/tree/main/Knock_Knock) An euclidean rhythm generator.
+* [SUB & DIV](https://github.com/PierreIsCoding/sdiy/tree/main/Sub%26Div) A sub oscillator and clock divider.
 
 
 ## Envelopes
