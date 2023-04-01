@@ -60,11 +60,34 @@ That's all. Have fun!
 
 # Build Notes
 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/knock_front.jpg" width="600" /> 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/knock_back.jpg" width="600" /> 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/knock_side.jpg" width="600" /> 
+
 ## Files
+The following files are in this folder:
+* Schematic (pdf).
+* Part list (Excel).
+* Arduino Code.
+* .STL file for 3d printing the standoff.
+* iBom file for part placement. Download this file and open this file from your file explorer.
+
 
 ## Led bar
 
+Before solderig the LED bar:
+* Make sure you have the correct orientation, else it won't work. The PCB has a hint for how the LEDS should be oriented. Check with your multimeter before soldering.
+* Make sure the LED bar is flush with the front panel.
+
 ## Programming the Attiny84
+* For uploading you need a programmer. I used an Arduino nano as ISP programmer, and the Arduino IDE. Example on how follows...else theck the web ;)
+* The module needs to be powered via your Eurorack for the uploading process.
+* Please make sure you select "20 MHZ External CLOCK" !
+* Don't forget to burn bootloader before uploading the code.
+
+
+
+
 
 
 
