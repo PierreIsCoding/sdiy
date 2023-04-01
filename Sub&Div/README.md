@@ -16,8 +16,9 @@ SUB & DIV is a 4HP wide sub octave generator and clock divider with CV.
 9. Clock reset button.
 
 ## Sub Octave Generator.
-With SUB & DIV you can beef up your vco signals with sub octaves. A sub octave is technically a clock division and musically an octave lower or more than your original signal. To use the module as a sub octave generator:
+With SUB & DIV you can beef up your vco signals with sub octaves. A sub octave is technically a frequency division and musically one or more octave(s) lower, than the original signal you used for it. 
 
+To use the module as a sub octave generator:
 * Insert a vco signal into the OSC input jack (6).
 * Listen to the MIX output (7).
 * Crossfade between your inserted signal and sub octave with the sub oscillator mix knob (1).
@@ -28,6 +29,7 @@ SUB & DIV allows you to select 4 divisions/ sub octaves. The selected one is vis
 ## Clock Division.
 The clock division is quite similar to the sub octave generation, however you would normally use slower signals into the OSC input jack. 
 
+To use the module for clock division:
 * Insert an LFO or any clock source into the OSC input jack (6).
 * Connect external modules like drum sounds to the DIV output jack (8).
 * The sub mix knob (1) has no effect on this ouput.
@@ -45,7 +47,7 @@ The main trick of this module is CV! I don't know other modules like this with C
 ## Tips
 
 * Use other clock signals into the CV input and attenuate those to your desired range.
-* Use cv at audio rate to create cool effects. (at the right speed you can listen to mutliple octaves ate the same time)
+* Use CV at audio rate to create cool effects. At the right speed you can listen to mutliple octaves at the same time.
 * Insert an signals into the CV input to just visualize their wave form.
 * Connect the mix output (7) with the CV input (5). You will get new and interesting rhythms !
 
