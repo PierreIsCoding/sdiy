@@ -52,6 +52,13 @@ The main trick of this module is CV! I don't know other modules like this with C
 That's all! Have fun.
 
 # Build Notes.
-...
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/sub_front.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/sub_back.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/sub_side.jpg" width="600" />
+
+Tips:
+* This module is pretty dense. Therefore their isn't space for a shrouded power header. I used a red male header for the -12V power line, so it is always clear how to push in your IDC connectore correclty.
+* The trimpot (RV3) is optional. Use R21 if you don't use the trimpot and vica versa, so don't use both. 
 
 
