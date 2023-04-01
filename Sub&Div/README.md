@@ -58,7 +58,7 @@ That's all! Have fun.
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/sub_side.jpg" width="600" />
 
 Tips:
-* This module is pretty dense. Therefore their isn't space for a shrouded power header. I used a red male header for the -12V power line, so it is always clear how to push in your IDC connectore correclty.
+* This module is pretty dense. Therefore their isn't space for a shrouded power header. I used a red male header for the -12V power line, so it is always obvious how to push in your IDC connector correctly.
 * The trimpot (RV3) is optional. Use R21 if you don't use the trimpot and vica versa, so don't use both. 
 
 
