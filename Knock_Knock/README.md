@@ -66,12 +66,11 @@ That's all. Have fun!
 
 ## Files
 The following files are in this folder:
-* Schematic (pdf).
-* Part list (Excel).
-* Arduino Code.
-* .STL file for 3d printing the standoff.
+* Knock_Knock_Code; Arduino Code.
+* Knock_Knock_Schematic (pdf).
+* Knock_Knock_BOM; Part list (Excel).
+* Spacer_10mm.stl; A 3D file for 3d printing the standoff.
 * iBom file for part placement. Download this file and open this file from your file explorer.
-
 
 ## Led bar
 
