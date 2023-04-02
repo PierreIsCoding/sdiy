@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Knock_Knock/images/Front.png" width="110" />
 
-Knock Knock is a simple to use, only 6HP wide, and powerfull 5 channel euclidian rhythm generator for creating interesting patterns on the fly.
+Knock Knock is a simple to use, only 6HP wide, and powerfull 5 channel euclidian rhythm generator, for creating interesting patterns on the fly. What are euclidean rhythms? [Link Wikipedia](https://en.wikipedia.org/wiki/Euclidean_rhythm)
 
 # Manual
 
@@ -26,7 +26,9 @@ Knock Knock is a simple to use, only 6HP wide, and powerfull 5 channel euclidian
 13. Channel or step number.
 
 ## Basic Operation.
-As a starter Knock Knock has its own internal clock, so you don't need to feed it any external one. If the module runs you will see in the LED bar (9) the ON-steps, and the current position of the pattern moving downwards. The ON-steps are visualised with a lower LED brightness, and the current position is visualised with a higher LED brightness. To start or stop all rhythms simply press the play button (1).
+As a starter Knock Knock has its own internal clock, so you don't need to feed it any external one. 
+
+If the module runs you will see in the LED bar (9) the ON-steps, and the current position of the pattern moving downwards. The ON-steps are visualised with a lower LED brightness, and the current position is visualised with a higher LED brightness. To start or stop all rhythms simply press the play button (1).
 
 To change the pattern of your active channel do the following:
 1. Turn the rotary encoder (8) (without pressing any other button) left or right to decrease or increase the amounth of ON-steps in the pattern.
