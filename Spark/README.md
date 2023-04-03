@@ -8,7 +8,7 @@ Spark creates gates, envelopes, fade-ins, fade-outs and more. The module gives y
 
 1. Duration (bias) knob.
 2. Burst LED's.
-3. Slope knob.
+3. Slope shape knob.
 4. Trigger mode.
 5. Duration CV input with attenuator.
 6. Trigger / Gate input.
@@ -34,19 +34,19 @@ For basic operation and for learning the module first set the trigger mode switc
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Explainations_Spark.png" width="400" />
 
-When Spark receives an input trigger a number of things are set in motion:
+When Spark receives an input trigger a number of things are set in motion (see also image above):
 - First and foremost Spark sends out a basic burst of gates (9). These gates can be used to trigger other modules like kicks, snares, hats, envelope generators etc. 
-- On the same time Spark outputs a simple envelope on the slope output (7). This slope / envelope internally determines the duration of the burst. When that envelope is at its end the burst gates stop to be produced.
-- This slope / envelope can have either a "fade-in" or fade-out" shape. This determinded by the slope knob (3). See section below about this in more detail.
-- Also on the same time Spark combines this slope with the burst gates to produce "fading-on or -out" burst envelopes at the "burst envelope output" (10).
-- The individual decay's of the burst envelopes are set by the envelope knob (14). See image above how this all looks like.
+- On the same time Spark outputs a simple envelope on the slope output (7). This slope internally determines the duration of the burst. When that envelope is at its end, the burst is stopped to be produced.
+- That slope can have either have a "fade-in", "no fade", or fade-out" shape. This is determinded by the slope shape knob (3). See section below about this in more detail.
+- Spark also combines that slope with the burst gates and the internal envelope generator (14) to produce even another shape. This is a"fading-in" or "fading -out" burst with envelopes at the "burst envelope output" (10).
+- The individual decay's of the burst envelopes are set by the envelope knob (14). See image above for how this all looks like.
 
 ## Duration
-The Duration of the burst is controlled by the duration knob, the duration CV and its associated attenuator. By changing this you also directly change the duration of the slope output. You can use this output as a CV-controllable decay generator to control external VCA's etc.
+The Duration of the burst is controlled by the duration knob, the duration CV and its associated attenuator. By changing this you also directly change the duration of the slope output. You can use this output (7) as a CV-controllable decay generator to control external VCA's etc.
 
-Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the CV input and the module will store that CV value at the moment of receiving a trigger input to set and keep the duration of the burst. A new trigger is required to reset the duration to a new value.
+Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the CV input and the module will store that CV value at the moment of receiving a trigger input to set and keep the duration of the burst. A new trigger is required to reset the duration to a new value. During a burst new values are blocked.
 
-Tip: it can happen that the duration becomes super looooong when the duration knob is set to its max and a high CV input was applied. Any change on the duration will not change this, because of this S&H circuit. To overcome this make sure the trigger mode is set to single, lower the duration values and press the manual button to reset the Sample & Hold. 
+Tip: it can happen that the duration becomes super looooong when the duration knob is set to its max and a high CV input was applied. Any change on the duration will not change this while the the burst is still in action, because of this S&H circuit. To overcome this make sure the trigger mode switch (4) is set to RETRIG, then lower the duration values and press the manual button to trigger a new burst and to reset the Sample & Hold. 
 
 ## Rate
 The rate of the internal clock is controlled by the rate knob, the rate CV and its associated attenuator. Please be aware that the input CV for the clock rate is normalized with the slope output. This means that opening the associated attenuator for the rate CV allows the slope to effect the rate of the clock. When the slope shape is set to fade-in the rate will ramp up during a burst generation and when the slope is set to fade-out the speed will slow down during a burst generation.
