@@ -44,9 +44,9 @@ When Spark receives an input trigger a number of things are set in motion (see a
 ## Duration
 The Duration of the burst is controlled by the duration knob, the duration CV and its associated attenuator. By changing this you also directly change the duration of the slope output. You can use this output (7) as a CV-controllable decay generator to control external VCA's etc.
 
-Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the CV input and the module will store that CV value at the moment of receiving a trigger input to set and keep the duration of the burst. A new trigger is required to reset the duration to a new value. During a burst new values are blocked.
+Internally the duration has a "sample & hold" circuit. With this you can use a noise source or similar into the duration CV input (5). The module will store that CV value at the moment of receiving a trigger. A new trigger is required to reset the duration to a new value. During a burst new values are blocked.
 
-Tip: it can happen that the duration becomes super looooong when the duration knob is set to its max and a high CV input was applied. Any change on the duration will not change this while the the burst is still in action, because of this S&H circuit. To overcome this make sure the trigger mode switch (4) is set to RETRIG, then lower the duration values and press the manual button to trigger a new burst and to reset the Sample & Hold. 
+Tip: it can happen that the duration becomes super looooong when the duration knob is set to its max and a high duratio CV input was applied. Any change on the duration input will not change the process while the burst is still in action, because of this S&H circuit. To overcome this make sure the trigger mode switch (4) is set to RETRIG, then lower the duration values and press the manual button to trigger a new burst and to reset the Sample & Hold. 
 
 ## Rate
 The rate of the internal clock is controlled by the rate knob, the rate CV and its associated attenuator. Please be aware that the input CV for the clock rate is normalized with the slope output. This means that opening the associated attenuator for the rate CV allows the slope to effect the rate of the clock. When the slope shape is set to fade-in the rate will ramp up during a burst generation and when the slope is set to fade-out the speed will slow down during a burst generation.
@@ -59,7 +59,7 @@ Tip: if you don't want the slope to mess up with the rate speed make sure the at
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Spark/images/Explainations_2_Spark.png" width="500" />
 <br>
 
-A little bit more about the slope control:
+A little bit more about the  Slope shape knob (3).
 - Fully counter-clock-wise and the slope and envelope out will fade in.
 - Fully clock-wise and the slope and envelope out will fade out.
 - Put it in the center:
