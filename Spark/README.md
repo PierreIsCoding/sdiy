@@ -36,7 +36,7 @@ For basic operation and for learning the module first set the trigger mode switc
 
 When Spark receives an input trigger a number of things are set in motion (see also image above):
 - First and foremost Spark sends out a basic burst of gates (9). These gates can be used to trigger other modules like kicks, snares, hats, envelope generators etc. 
-- On the same time Spark outputs a simple envelope on the slope output (7). This slope internally determines the duration of the burst. When that envelope is at its end, the burst is stopped to be produced.
+- On the same time Spark outputs a simple slope envelope on the slope output (7). This slope internally determines the duration of the burst. When that envelope is at its end, the burst is stopped to be produced.
 - That slope can have either have a "fade-in", "no fade", or fade-out" shape. This is determinded by the slope shape knob (3). See section below about this in more detail.
 - Spark also combines that slope with the burst gates and the internal envelope generator (14) to produce even another shape. This is a"fading-in" or "fading -out" burst with envelopes at the "burst envelope output" (10).
 - The individual decay's of the burst envelopes are set by the envelope knob (14). See image above for how this all looks like.
