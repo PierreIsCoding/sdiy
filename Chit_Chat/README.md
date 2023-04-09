@@ -5,6 +5,15 @@
 With Chit Chat you can create a lifelike and rhytmic conversation with ease by simply setting the probability between one of the two output gates.
 When Chit Chat receives a clock input it randomly translates this either to gate 1 or 2, as a coin toss. Depending on the probability setting between 0-100% it will go more likely to one of the two gates. This is not only a simple but powerfull module, but the tech behind it consists completely of analog and discrete electronics. No software is involved !
 
+## Video
+
+Many thanx to MeeBilt who created a build and demo video of this module ! 
+
+<a href="https://www.youtube.com/watch?v=In5H7uLO6ec&t=187s"><img src="https://img.youtube.com/vi/In5H7uLO6ec/sddefault.jpg" width="300" /></a>
+
+https://www.youtube.com/watch?v=In5H7uLO6ec&t=187s
+
+
 # Manual
 Chit Chat has two channels to work with: Channel A on the left side and channel B on the right side.
 
