@@ -30,7 +30,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/Spark) An analog burst generator.
 
 ## Drums
-* [Alter Normal](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) Analog High-Hat.
+* [Alter Normal](https://github.com/PierreIsCoding/sdiy/tree/main/Alter_Normal) Analog High-Hat.
 
 ## Effects
 * [Wave Folder](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) A pcb design of a wavefolder.
