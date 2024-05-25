@@ -29,9 +29,12 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 ## Envelopes
 * [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/Spark) An analog burst generator.
 
+## Drums
+* [Alter Normal](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) Analog High-Hat.
 
 ## Effects
 * [Wave Folder](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) A pcb design of a wavefolder.
+* [Swoop](https://github.com/PierreIsCoding/sdiy/tree/main/Swoop) A 2:2 switch and wave shaper.
 
 
 ## Utilities
