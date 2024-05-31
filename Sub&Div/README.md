@@ -4,6 +4,14 @@
 
 SUB & DIV is a 4HP wide sub octave generator and clock divider with CV.
 
+## Video
+
+Many thanx to MeeBilt who created a build and demo video of this module ! 
+
+<a href="https://www.youtube.com/watch?v=s4WyTzt6EDA&t=1s"><img src="https://img.youtube.com/vi/s4WyTzt6EDA/sddefault.jpg" width="300" /></a>
+
+https://www.youtube.com/watch?v=s4WyTzt6EDA&t=1s
+
 ## Manual
 1. Sub oscillator mix knob.
 2. Division selection and bias knob.
