@@ -72,7 +72,7 @@ The following files are in this folder:
 * Knock_Knock_Schematic (pdf).
 * Knock_Knock_BOM; Part list (Excel).
 * Spacer_10mm.stl; A 3D file for 3d printing the standoff.
-* iBom file for part placement. Download this file and open this file from your file explorer.
+* [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Knock_Knock/ibom.html) file for part placement. Open the link or download this file and open it from your file browser.
 
 ## Led bar
 
