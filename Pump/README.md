@@ -18,7 +18,8 @@ I choose an opamp configuration that provides a lot of flexibility afterwards. Y
 Have a look at the Falstad simulation and see how you want to change the values. [Link to simulation](https://tinyurl.com/28t7lkuj)
 
 
-
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Pump/bom/ibom.html)
 
 
 ## Buildnotes
