@@ -39,6 +39,9 @@ The design is based on a much older LFO design also seen in:
 * The main trick here is giving the comparator that extra feedback transistor. That makes the comparator a "Schmitt Trigger".
 * Since that feedback transistor is relatively small the Schmitt Trigger zone is pretty large. See in the simulation what happens if you change it ;)
 
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Dual_LFO/bom/ibom.html)
+
 
 ## Buildnotes
 * The LEDs can be soldered in both ways. Negative leg to the right (seen from the front) will give you a green light at positive LFO voltages.
