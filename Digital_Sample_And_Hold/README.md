@@ -35,7 +35,8 @@ For the search signal I used the same signal as for the actuall output, because 
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Digital_Sample_And_Hold/IMAGES/ADC_hack.png" width="900"/>
 
-
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Digital_Sample_And_Hold/BOM/ibom.html)
 
 ## Build Notes
 * Please note the extra wires underneath the IC's. See PDF's
