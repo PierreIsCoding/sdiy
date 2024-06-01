@@ -17,7 +17,7 @@ Many thanx to [HarmO](https://github.com/harmo). He gave us a very nice simulati
 * The module needs at least signals of 10 Volts peak to peak in order to fold.
 
 ## iBOM
-[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Pump/bom/ibom.html)
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Wavefolder/BOM/ibom.html)
 
 ## Buildnotes
 * Please check the attached BOM files. This design doesn't use the smd BC857 but a through hole 2n3906 instead
