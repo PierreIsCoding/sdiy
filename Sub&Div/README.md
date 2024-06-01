@@ -61,6 +61,9 @@ The main trick of this module is CV! I don't know other modules like this with C
 
 That's all! Have fun.
 
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Sub%26Div/ibom.html)
+
 # Build Notes.
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Sub%26Div/images/sub_front.jpg" width="600" />
