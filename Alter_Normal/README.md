@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Alter_Normal/images/Front_1.png" width="180" />
 
-Altern Normal is a 40106 based analog hi-hat with lots of extra's to create a new pallete of ischh and osshhh.
-
-[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Alter_Normal/ibom.html)
+Alter Normal is a 40106 based analog hi-hat with lots of extra's to create a new palette of ischh and osshhh.
 
 ## Features
 * Voltage controlled envelope generator (decay).
@@ -18,3 +16,6 @@ Altern Normal is a 40106 based analog hi-hat with lots of extra's to create a ne
 * Sample & Hold.
   * Decay CV will be hold until next trigger input.
   * Internal noise is used to randomly adjust the CV. This via normalisation of the CV jacks.
+ 
+ ## iBom
+ [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Alter_Normal/ibom.html)
