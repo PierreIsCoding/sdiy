@@ -20,6 +20,8 @@
 * Create four different drum sounds and play them manually with the manual gate output into the clock input of my [Low Pass Gate](https://github.com/PierreIsCoding/sdiy/tree/main/LPG) and the CV out into the pitch control of a VCO that goes into that same LPG again.
 * Create random colored hihats by using four different noise sources and switch between with my [Probability gate](https://github.com/PierreIsCoding/sdiy/tree/main/Probability_Gate) for the clock input.
 
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/VCA_Ducker/bom/ibom.html)
 
 ## Build notes
 * This a fairly difficult project.
