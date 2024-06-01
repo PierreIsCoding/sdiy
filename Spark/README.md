@@ -108,7 +108,7 @@ ps, I soldered R1 on the backside only for testing purposes, so you don'tneed to
 The files for building and sourcing this project are in this folder. See
 - Spark_Schematic.pdf; as reference.
 - Spark_Part_List.xlsx; for sourcing your parts.
-- ibom.html; download is file and open it with your browser. It is ideal for placing the components.
+- [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/Spark/ibom.html); open the link or download is file and open it with your browser. It is ideal for placing the components.
 - Spacer_11mm.stl; For 3D-printing a spacer between the two PCB's. I used a 2mm wood screws to mount it.
 
 ## Calibrating the rate knob.
