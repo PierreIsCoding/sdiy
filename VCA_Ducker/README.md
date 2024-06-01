@@ -69,6 +69,11 @@ This section is based on a basic crossfader but instead of using a traditional p
 * CENTER: mix of kick with audio signal.
 * DOWN: audio signal only.
 
+## iBOM
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/VCA_Ducker/bom/ibom.html)
+
 ## Build Notes
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/back_small.jpg" width="400" />
+
+
 
