@@ -14,7 +14,7 @@ Swoop is a 2:2 analog multiplexer module for Eurorack. It can be used used for a
 * Two gate outputs.
   * At momentary mode you get: A direct gate and inversed gate
   * At toggle mode you get: A clock divider output and its inverse.
-* Use it as a wave shaper. For this you just insert your signal in to the clock input (CLK IN). For this:
+* Use it as a wave shaper. For this you just insert your (audio) signal to the clock input (CLK IN). Then:
   *  The clock input (CLK IN) is normalized to the left signal input (SIG IN A).
   *  The inverse of the left signal input is normalized with the right signal input (SIG IN B).
 * Use the COMP potentiometer and COMP IN cv to change the waveshape (PWM-like).
