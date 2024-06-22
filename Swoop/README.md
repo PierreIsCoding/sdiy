@@ -7,7 +7,7 @@ Swoop is a 2:2 analog multiplexer module for Eurorack. It can be used used for a
 ## Features
 * Route two analog or digital signal to two outputs. With this you can:
   * 2:1 Use two input signals and select one of them as output.
-  * 1:2 Use one input signal and select to which output you want it.
+  * 1:2 Use one input signal and select to which output you want it to.
   * 2:2 Swap two signals with each other.
 * Use momentary or toggle selection.
 * Use a button and clock input to change state
