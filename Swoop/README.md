@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Swoop/images/SWOOP_FRONT.png" width="100" />
 
-Alter Normal is a 40106 based analog hi-hat with lots of extra's to create a new palette of ischh and osshhh.
-
 Swoop is a 2:2 analog multiplexer module for Eurorack. It can be used used for a many interesting things.
 
 ## Features
