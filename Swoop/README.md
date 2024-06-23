@@ -2,12 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Swoop/images/SWOOP_FRONT.png" width="100" />
 
-Swoop is a 2:2 analog multiplexer module for Eurorack. It can be used used for a many interesting things.
+Swoop is a 2:2 analog multiplexer module for Eurorack, and basically works like a CV / Gate controllable mechanical (DPDT) switch. Although the module is seemingly easy, it can be used used for a many interesting things.
 
 ## Features
-* Route two analog or digital signal to two outputs. With this you can:
-  * 2:1 Use two input signals and select one of them as output.
-  * 1:2 Use one input signal and select to which output you want it to.
+* Route analog or digital input signals to different outputs. Use these configurations:
+  * 1:1 Switch a signal simply ON or OFF. Example: add and ON / OFF button to your sequencer.
+  * 1:2 Use one input signal and select to which output you want to route it. Example: toggle rythm between two drum modules.
+  * 2:1 Use two input signals and select one of them as output. Example: two different sequencers for one VCO.
   * 2:2 Swap two signals with each other.
 * Use momentary or toggle selection.
 * Use a button and clock input to change state
