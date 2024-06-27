@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/Swoop/images/SWOOP_FRONT.png" width="100" />
 
-Swoop is a 2:2 analog multiplexer module for Eurorack, and basically works like a CV / Gate controllable mechanical (DPDT) switch. Although the module is seemingly easy, it can be used used for a many interesting things.
+Swoop is a 2:2 analog multiplexer module for Eurorack, and basically works like a CV / Gate controllable mechanical (DPDT) switch. Although the module looks seemingly easy, it can be used used for a many interesting things.
 
 ## Features
 * Route analog or digital input signals to different outputs. Use these configurations:
