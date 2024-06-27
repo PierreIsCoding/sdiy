@@ -21,8 +21,8 @@ Swoop is a 2:2 analog multiplexer module for Eurorack, and basically works like 
 * Use the COMP potentiometer and COMP IN cv to change the waveshape (PWM-like).
 
 Be aware:
-* That for normal clock you want the COMP potentiomer at 13.00 o'clock.
-* The different normalizations of the inout jacks.
+* That for normal clock operation you want the COMP potentiomer at 13.00 o'clock.
+* The different normalizations of the input jacks.
 
 ## Build notes
 
