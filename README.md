@@ -3,7 +3,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 
 ## Learning
-* [SDIY Building Blocks](https://github.com/PierreIsCoding/sdiy/tree/main/Building_Blocks) An overview of important SDIY building blocks.
+* [SDIY Building Blocks](https://pierreiscoding.github.io/building/) An overview of important SDIY building blocks.
 
 
 ## VCA's
