@@ -50,6 +50,10 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Skiff Case](https://github.com/PierreIsCoding/sdiy/tree/main/Eurorack_Case) A manual for building a skiff case.
 * [Misc](https://github.com/PierreIsCoding/sdiy/tree/main/misc) Some other stuff.
 
+## Experiments
+* [DrumPad](https://github.com/PierreIsCoding/sdiy/tree/main/drumpad) A restive based touch panel
+* [DrumPad](https://github.com/PierreIsCoding/sdiy/tree/main/drumpad) A restive based touch panel
+* [HelperBoards](https://github.com/PierreIsCoding/sdiy/tree/main/helper_boards) Experimental helperboards
 -------------------------
 
 # Oldies But Goodies
