@@ -52,7 +52,6 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## Experiments
 * [DrumPad](https://github.com/PierreIsCoding/sdiy/tree/main/drumpad) A restive based touch panel
-* [DrumPad](https://github.com/PierreIsCoding/sdiy/tree/main/drumpad) A restive based touch panel
 * [HelperBoards](https://github.com/PierreIsCoding/sdiy/tree/main/helper_boards) Experimental helperboards
 -------------------------
 
