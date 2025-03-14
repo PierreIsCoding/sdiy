@@ -9,3 +9,6 @@
 
 ## Schmitt_Triggers
 [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/helper_boards/Schmitt_Triggers/ibom.html)
+
+## Touch Helper
+[iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/helper_boards/Touch_Helper/ibom.html)
