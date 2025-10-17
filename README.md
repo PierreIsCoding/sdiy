@@ -28,7 +28,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## Envelopes
 * [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/Spark) An analog burst generator.
-* [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/VCD) A voltage controlled decay generator
+* [VCD](https://github.com/PierreIsCoding/sdiy/tree/main/VCD) A voltage controlled decay generator
 
 ## Drums
 * [Alter Normal](https://github.com/PierreIsCoding/sdiy/tree/main/Alter_Normal) Analog High-Hat.
