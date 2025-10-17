@@ -18,7 +18,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Digital Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Digital_Sample_And_Hold) A Digital Sample And Hold with lots of extras.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
 * [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerful quantizer.
-* [Sequencer](https://github.com/PierreIsCoding/sdiy/tree/main/the_breadwinner). Massiv analog sequencer.
+* [The BreadWinner](https://github.com/PierreIsCoding/sdiy/tree/main/the_breadwinner). Massiv analog sequencer.
 
 
 ## Gates
