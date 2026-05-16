@@ -38,13 +38,18 @@ If you would simply change the input level CV while using a steady clock it crea
 The Hard or Soft mode effects the influence of level changes.
 
 <br>
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/explain_3.png" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/explain_3.png" width="300" />
 
 If the next decay is triggered with a lower Level CV, while the previous decay is still ongoing, the Soft mode would simply ignore the new decay. See image above.
 
-<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/explain_4.png" width="400" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/explain_4.png" width="300" />
 
 Hard mode abruptly pushes the ongoing decay down to the new level (see image above). As a rule of thumb, Soft mode creates more natural-sounding decays, while Hard mode provides starker contrast between consecutive notes.
+
+## Optional changes before building the module
+* Removing capacitor C7 allows higher-frequency signals, such as noise, to pass through. This can be used to generate randomized decay times.
+* Increase resistor value R17. This allows for higher decays.
+* Decrease C2 for even snappier decays.
 
 ## iBOM
 [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/VCD/ibom.html)
