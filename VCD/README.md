@@ -44,9 +44,11 @@ If the next decay is triggered with a lower Level CV, while the previous decay i
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/explain_4.png" width="300" />
 
-Hard mode abruptly pushes the ongoing decay down to the new level (see image above). As a rule of thumb, Soft mode creates more natural-sounding decays, while Hard mode provides starker contrast between consecutive notes.
+Hard mode abruptly pushes the ongoing decay down to the new level (see image above).
 
-## Optional changes before building the module
+As a rule of thumb, Soft mode creates more natural-sounding decays, while Hard mode provides starker contrast between consecutive notes.
+
+## Optional changes for building the module
 * Removing capacitor C7 allows higher-frequency signals, such as noise, to pass through. This can be used to generate randomized decay times.
 * Increase resistor value R17. This allows for higher decays.
 * Decrease C2 for even snappier decays.
