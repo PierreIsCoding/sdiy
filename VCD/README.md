@@ -4,7 +4,7 @@ Voltage Controlled Decay Generator
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/VCD.png" width="230" />
 
-A simple envelope generator (decay only) suited for creating accents dynamically in your sequence.
+A simple envelope generator (decay only) suited for creating dynamic accents in your sequence.
 
 ## Features
 1. Decay; duration of the decay
