@@ -53,5 +53,11 @@ As a rule of thumb, Soft mode creates more natural-sounding decays, while Hard m
 * Increase resistor value R17. This allows for higher decays.
 * Decrease C2 for even snappier decays.
 
+## Build Guide
+
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/VCD_3D1.png" width="700" />
+
+* Make sure C1 (red capacitor in image above) is not too high.
+
 ## iBOM
 [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/VCD/ibom.html)
