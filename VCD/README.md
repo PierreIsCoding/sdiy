@@ -59,5 +59,7 @@ As a rule of thumb, Soft mode creates more natural-sounding decays, while Hard m
 
 * Make sure C1 (red capacitor in image above) is not too high.
 
+<img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCD/images/VCD_3D2.png" width="700" />
+
 ## iBOM
 [iBom](https://htmlpreview.github.io/?https://github.com/PierreIsCoding/sdiy/blob/main/VCD/ibom.html)
