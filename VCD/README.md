@@ -16,7 +16,7 @@ A simple envelope generator (decay only) suited for creating dynamic accents in 
 7. Hard / Soft mode switch.
 
 ## Decay vs Level
-The decay knob allows you to change the duration of an envelope decay, while the Level knob + Level CV allows you to set the height of the decay. By changing the height you also effectivly change its timing. Let me explain.
+The decay knob allows you to change the duration of the envelope decay, while the Level knob + Level CV allows you to set the height of the decay. By changing the height you also effectivly change its timing. Let me explain.
 
 <br>
 
